@@ -1,0 +1,1115 @@
+<!DOCTYPE html>
+<html lang="en-GB" prefix="og: http://ogp.me/ns#">
+<head><script src="//archive.org/includes/athena.js" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app202.us.archive.org';v.server_ms=5352;archive_analytics.send_pageview({});});</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=7YQSqjSh" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://www.fanzalive.co.uk/","20201202122945","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1606912185");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=p7PEIJWi" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+<meta name="p:domain_verify" content="5120e70bb27a7446ee696b1a3f534ab4"/><script data-ad-client="ca-pub-9734613839794911" async src="https://web.archive.org/web/20201202122945js_/https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script data-ad-client="ca-pub-9734613839794911" async src="https://web.archive.org/web/20201202122945js_/https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <meta http-equiv="content-Type" content="text/html; charset=UTF-8"/>
+<meta name="google-site-verification" content="PWkqIB44dEaB77wogPP6htuWtGrxgKDq0RmVSbC5PyE"/>	
+<meta name="msvalidate.01" content="1163C476BAF1BD96E0AFA13D673F52C3"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style type="text/css">			.heateorSssInstagramBackground{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}
+						div.heateor_sss_horizontal_sharing i.heateorSssInstagramBackground{background:#ffffff!important;}div.heateor_sss_standard_follow_icons_container i.heateorSssInstagramBackground{background:#ffffff;}
+										.heateor_sss_horizontal_sharing .heateorSssSharing,.heateor_sss_standard_follow_icons_container .heateorSssSharing{
+							background-color: #ffffff;
+							color: #fa0001;
+						border-width: 0px;
+			border-style: solid;
+			border-color: #fa0001;
+		}
+				.heateor_sss_horizontal_sharing .heateorSssSharing:hover,.heateor_sss_standard_follow_icons_container .heateorSssSharing:hover{
+						border-color: transparent;
+		}
+		.heateor_sss_vertical_sharing .heateorSssSharing,.heateor_sss_floating_follow_icons_container .heateorSssSharing{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+				.heateor_sss_vertical_sharing .heateorSssSharing:hover,.heateor_sss_floating_follow_icons_container .heateorSssSharing:hover{
+						border-color: transparent;
+		}
+		
+		@media screen and (max-width:783px) {.heateor_sss_vertical_sharing{display:none!important}}@media screen and (max-width:783px) {.heateor_sss_floating_follow_icons_container{display:none!important}}</style>
+<!-- Search Engine Optimisation by Rank Math - https://s.rankmath.com/home -->
+<title>Live Reporting By The Fans - Fanzalive</title>
+<meta name="description" content="Live Reporting by the Fans, scores, results, fixtures and predictions from the Premier, WSL, Championship, European and World. Fans live sports blog platform, trusted by thousands of fans."/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/"/>
+<meta property="og:locale" content="en_GB">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Live Reporting By The Fans - Fanzalive">
+<meta property="og:description" content="Live Reporting by the Fans, scores, results, fixtures and predictions from the Premier, WSL, Championship, European and World. Fans live sports blog platform, trusted by thousands of fans.">
+<meta property="og:url" content="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/">
+<meta property="og:site_name" content="Fanzalive">
+<meta property="og:updated_time" content="2020-10-05T10:30:26+01:00">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Live Reporting By The Fans - Fanzalive">
+<meta name="twitter:description" content="Live Reporting by the Fans, scores, results, fixtures and predictions from the Premier, WSL, Championship, European and World. Fans live sports blog platform, trusted by thousands of fans.">
+<meta name="twitter:site" content="@Fanzalive1">
+<meta name="twitter:creator" content="@Fanzalive1">
+<script type="application/ld+json" class="rank-math-schema">{
+    "@context": "https://web.archive.org/web/20201202122945/https://schema.org",
+    "@graph": [
+        {
+            "@type": [
+                "Website",
+                "Organization"
+            ],
+            "@id": "https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/#organization",
+            "name": "Fanzalize",
+            "url": "https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk",
+            "openingHours": [
+                "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-17:00"
+            ]
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/#website",
+            "url": "https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk",
+            "name": "Fanzalize",
+            "publisher": {
+                "@id": "https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/#organization"
+            },
+            "inLanguage": "en-GB",
+            "potentialAction": {
+                "@type": "SearchAction",
+                "target": "https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/?s={search_term_string}",
+                "query-input": "required name=search_term_string"
+            }
+        },
+        {
+            "@type": "WebPage",
+            "@id": "https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/#webpage",
+            "url": "https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/",
+            "name": "Live Reporting By The Fans - Fanzalive",
+            "datePublished": "2018-08-16T18:44:31+01:00",
+            "dateModified": "2020-10-05T10:30:26+01:00",
+            "isPartOf": {
+                "@id": "https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/#website"
+            },
+            "inLanguage": "en-GB"
+        },
+        {
+            "@type": "SportsEvent",
+            "name": "Live Reporting By The Fans - Fanzalive",
+            "description": "Live Reporting by the Fans, scores, results, fixtures and predictions from the Premier, WSL, Championship, European and World. Fans live sports blog platform, trusted by thousands of fans.",
+            "eventStatus": [
+                "EventScheduled"
+            ],
+            "eventAttendanceMode": "https://web.archive.org/web/20201202122945/https://schema.org/OnlineEventAttendanceMode",
+            "location": [],
+            "offers": {
+                "@type": "Offer",
+                "name": "General Admission",
+                "category": "primary",
+                "price": 0
+            },
+            "@id": "https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/#schema-9358215",
+            "organizer": {
+                "@id": "https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/#organization"
+            },
+            "inLanguage": "en-GB",
+            "mainEntityOfPage": {
+                "@id": "https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/#webpage"
+            }
+        }
+    ]
+}</script>
+<meta name="google-site-verification" content="PWkqIB44dEaB77wogPP6htuWtGrxgKDq0RmVSbC5PyE"/>
+<meta name="msvalidate.01" content="1163C476BAF1BD96E0AFA13D673F52C3"/>
+<meta name="p:domain_verify" content="5120e70bb27a7446ee696b1a3f534ab4"/>
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel="dns-prefetch" href="//web.archive.org/web/20201202122945/https://stackpath.bootstrapcdn.com/"/>
+<link rel="dns-prefetch" href="//web.archive.org/web/20201202122945/https://s.w.org/"/>
+<link rel="stylesheet" id="wp-block-library-css" href="https://web.archive.org/web/20201202122945cs_/https://www.fanzalive.co.uk/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3" type="text/css" media="all"/>
+<link rel="stylesheet" id="dashicons-css" href="https://web.archive.org/web/20201202122945cs_/https://www.fanzalive.co.uk/wp-includes/css/dashicons.min.css?ver=5.5.3" type="text/css" media="all"/>
+<link rel="stylesheet" id="sportspress-general-css" href="//web.archive.org/web/20201202122945cs_/https://www.fanzalive.co.uk/wp-content/plugins/sportspress/assets/css/sportspress.css?ver=2.7.4" type="text/css" media="all"/>
+<link rel="stylesheet" id="sportspress-icons-css" href="//web.archive.org/web/20201202122945cs_/https://www.fanzalive.co.uk/wp-content/plugins/sportspress/assets/css/icons.css?ver=2.7" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://web.archive.org/web/20201202122945cs_/https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=1606912184" type="text/css" media="all"/>
+<link rel="stylesheet" id="owl-carousel-css" href="https://web.archive.org/web/20201202122945cs_/https://www.fanzalive.co.uk/wp-content/themes/fanzalive/assets/owl-carousel/owl.carousel.min.css?ver=1.5" type="text/css" media="all"/>
+<link rel="stylesheet" id="fanzalive-frontend-css" href="https://web.archive.org/web/20201202122945cs_/https://www.fanzalive.co.uk/wp-content/themes/fanzalive/assets/css/fanzalive-frontend.css?ver=1.5" type="text/css" media="all"/>
+<link rel="stylesheet" id="heateor_sss_frontend_css-css" href="https://web.archive.org/web/20201202122945cs_/https://www.fanzalive.co.uk/wp-content/plugins/sassy-social-share/public/css/sassy-social-share-public.css?ver=3.3.13" type="text/css" media="all"/>
+<link rel="stylesheet" id="heateor_sss_sharing_svg-css" href="https://web.archive.org/web/20201202122945cs_/https://www.fanzalive.co.uk/wp-content/plugins/sassy-social-share/admin/css/sassy-social-share-default-svg-horizontal.css?ver=3.3.13" type="text/css" media="all"/>
+<style type="text/css"></style><script type="text/javascript" src="https://web.archive.org/web/20201202122945js_/https://www.fanzalive.co.uk/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp" id="jquery-core-js"></script>
+<link rel="https://api.w.org/" href="https://www.fanzalive.co.uk/wp-json/"/><link rel="alternate" type="application/json" href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/wp-json/wp/v2/pages/256"/><link rel="alternate" type="application/json+oembed" href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fanzalive.co.uk%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fanzalive.co.uk%2F&amp;format=xml"/>
+<link rel="icon" href="https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/cropped-fanzalive-32x32.png" sizes="32x32"/>
+<link rel="icon" href="https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/cropped-fanzalive-192x192.png" sizes="192x192"/>
+<link rel="apple-touch-icon" href="https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/cropped-fanzalive-180x180.png"/>
+<meta name="msapplication-TileImage" content="https://www.fanzalive.co.uk/wp-content/uploads/cropped-fanzalive-270x270.png"/>
+		<style type="text/css" id="wp-custom-css">
+			.breadcrumbss {
+display: none;
+}		</style>
+		<style>
+.ai-viewports                 {--ai: 1;}
+.ai-viewport-3                { display: none !important;}
+.ai-viewport-2                { display: none !important;}
+.ai-viewport-1                { display: inherit !important;}
+.ai-viewport-0                { display: none !important;}
+@media (min-width: 768px) and (max-width: 979px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-2                { display: inherit !important;}
+}
+@media (max-width: 767px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-3                { display: inherit !important;}
+}
+</style>
+<script data-ad-client="ca-pub-9734613839794911" async src="https://web.archive.org/web/20201202122945js_/https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<meta name="theme-color" content="#001a39"/></head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://web.archive.org/web/20201202122945js_/https://www.googletagmanager.com/gtag/js?id=G-3TNH6GPS55"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3TNH6GPS55');
+</script>	
+<body class="home page-template page-template-page-templates page-template-home-v3 page-template-page-templateshome-v3-php page page-id-256"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script>__wm.rw(0);</script>
+<div id="wm-ipp-base" lang="en" style="display:none;direction:ltr;">
+<div id="wm-ipp" style="position:fixed;left:0;top:0;right:0;">
+<div id="donato" style="position:relative;width:100%;">
+  <div id="donato-base">
+    <iframe id="donato-if" src="https://archive.org/includes/donate.php?as_page=1&amp;platform=wb&amp;referer=https%3A//web.archive.org/web/20201202122945/https%3A//www.fanzalive.co.uk/"
+	    scrolling="no" frameborder="0" style="width:100%; height:100%">
+    </iframe>
+  </div>
+</div><div id="wm-ipp-inside">
+  <div id="wm-toolbar" style="position:relative;display:flex;flex-flow:row nowrap;justify-content:space-between;">
+    <div id="wm-logo" style="/*width:110px;*/padding-top:12px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png" srcset="https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png, https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-150.png 1.5x, https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png 2x" alt="Wayback Machine" style="width:100px" border="0" /></a>
+    </div>
+    <div class="c" style="display:flex;flex-flow:column nowrap;justify-content:space-between;flex:1;">
+      <form class="u" style="display:flex;flex-direction:row;flex-wrap:nowrap;" target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.fanzalive.co.uk/" onfocus="this.focus();this.select();" style="flex:1;"/><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20201202122945" /><input type="submit" value="Go" />
+      </form>
+      <div style="display:flex;flex-flow:row nowrap;align-items:flex-end;">
+                <div class="s" id="wm-nav-captures" style="flex:1;">
+                    <a class="t" href="/web/20201202122945*/https://www.fanzalive.co.uk/" title="See a list of every capture for this URL">25 captures</a>
+          <div class="r" title="Timespan for captures of this URL">09 Aug 2018 - 04 Mar 2025</div>
+          </div>
+        <div class="k">
+          <a href="" id="wm-graph-anchor">
+            <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+              <canvas id="wm-sparkline-canvas" width="750" height="27" border="0"></canvas>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="n">
+      <table>
+        <tbody>
+          <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+          <tr class="m">
+            <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20201021012413/https://www.fanzalive.co.uk/" title="21 Oct 2020"><strong>Oct</strong></a></td>
+            <td class="c" id="displayMonthEl" title="You are here: 12:29:45 Dec 02, 2020">DEC</td>
+            <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20210122021607/https://www.fanzalive.co.uk/" title="22 Jan 2021"><strong>Jan</strong></a></td>
+          </tr>
+          <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+          <tr class="d">
+            <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20201126090159/https://www.fanzalive.co.uk/" title="09:01:59 Nov 26, 2020"><img src="https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+            <td class="c" id="displayDayEl" style="width:34px;font-size:22px;white-space:nowrap;" title="You are here: 12:29:45 Dec 02, 2020">02</td>
+            <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20210122021607/https://www.fanzalive.co.uk/" title="02:16:07 Jan 22, 2021"><img src="https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a></td>
+          </tr>
+          <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+          <tr class="y">
+            <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20181128050416/http://www.fanzalive.co.uk:80/" title="28 Nov 2018"><strong>2018</strong></a></td>
+            <td class="c" id="displayYearEl" title="You are here: 12:29:45 Dec 02, 2020">2020</td>
+            <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20211203064805/http://fanzalive.co.uk/" title="03 Dec 2021"><strong>2021</strong></a></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="r" style="display:flex;flex-flow:column nowrap;align-items:flex-end;justify-content:space-between;">
+      <div id="wm-btns" style="text-align:right;height:23px;">
+                <span class="xxs">
+          <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a id="wm-save-snapshot-open" href="#" title="Share via My Web Archive" >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php" title="Sign In" id="wm-sign-in">
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        </span>
+                <a class="xxs" href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+        <a id="wm-tb-close" href="#close" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" class="xxs">
+        <a href="/web/20201202122945/http://web.archive.org/screenshot/https://www.fanzalive.co.uk/"
+           id="wm-screenshot"
+           title="screenshot">
+          <span class="wm-icon-screen-shot"></span>
+        </a>
+        <a href="#" id="wm-video" title="video">
+          <span class="iconochive-movies"></span>
+        </a>
+        <a id="wm-share-facebook" href="#" data-url="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+        <a id="wm-share-twitter" href="#" data-url="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+      <div style="padding-right:2px;text-align:right;white-space:nowrap;">
+        <a id="wm-expand" class="wm-btn wm-closed" href="#expand"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span class="xxs" style="font-size:80%;">About this capture</span></a>
+      </div>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+        <div id="wm-capinfo-notice" source="api"></div>
+                <div id="wm-capinfo-collected-by">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/commoncrawl)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/commoncrawl" target="_new"><span class="wm-title">Common Crawl</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Web crawl data from Common Crawl.
+	</div>
+	      </div>
+    </div>
+    </div>
+    <div id="wm-capinfo-timestamps">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="https://web-static.archive.org/_static/images/loading.gif" alt="loading" /></div>
+    </div>
+    </div>
+  </div></div></div></div><div id="wm-ipp-print">The Wayback Machine - https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/</div>
+<script type="text/javascript">//<![CDATA[
+__wm.bt(750,27,25,2,"web","https://www.fanzalive.co.uk/","20201202122945",1996,"https://web-static.archive.org/_static/",["https://web-static.archive.org/_static/css/banner-styles.css?v=p7PEIJWi","https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv"], false);
+  __wm.rw(1);
+//]]></script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+ 
+<div id="wrapper">
+    <header id="header" class="dark">
+        <div class="container">
+            <nav class="user-menu">
+                <ul class="menu">                    <li><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/login?redirect_to=https://www.fanzalive.co.uk/"><i class="fa fa-user-circle-o"></i> Sign In</a></li>
+                    </ul>
+            </nav>
+
+            <div class="logo">
+                <div class="inner">
+                    <a class="logo-link" href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/">
+                        <span class="logo-title">Fanzalive</span>
+                        <span class="logo-tagline">Live reporting by the fans</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <nav id="main-menu">
+            <div class="container"><ul id="menu-primary" class="menu"><li id="menu-item-71669" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71669"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/join-us/">Report It</a></li>
+<li id="menu-item-82631" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82631"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/fixtures-results-table/">Fixtures/Tables</a></li>
+<li id="menu-item-86208" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86208"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/womens-league/">News</a></li>
+<li id="menu-item-104312" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-104312"><a href="#">Leagues</a>
+<ul class="sub-menu">
+	<li id="menu-item-104324" class="menu-item menu-item-type-taxonomy menu-item-object-sp_league menu-item-104324"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/league/premiership/">Premiership</a></li>
+	<li id="menu-item-104329" class="menu-item menu-item-type-taxonomy menu-item-object-sp_league menu-item-104329"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/league/womens-super-league/">Womens Super League</a></li>
+	<li id="menu-item-104314" class="menu-item menu-item-type-taxonomy menu-item-object-sp_league menu-item-104314"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/league/championship/">Championship</a></li>
+	<li id="menu-item-104319" class="menu-item menu-item-type-taxonomy menu-item-object-sp_league menu-item-104319"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/league/league-one/">League One</a></li>
+	<li id="menu-item-104320" class="menu-item menu-item-type-taxonomy menu-item-object-sp_league menu-item-104320"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/league/league-two/">League Two</a></li>
+	<li id="menu-item-104321" class="menu-item menu-item-type-taxonomy menu-item-object-sp_league menu-item-104321"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/league/national-league/">National League</a></li>
+	<li id="menu-item-104323" class="menu-item menu-item-type-taxonomy menu-item-object-sp_league menu-item-104323"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/league/national-league-south/">National League South</a></li>
+	<li id="menu-item-104322" class="menu-item menu-item-type-taxonomy menu-item-object-sp_league menu-item-104322"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/league/national-league-north/">National League North</a></li>
+	<li id="menu-item-104315" class="menu-item menu-item-type-taxonomy menu-item-object-sp_league menu-item-104315"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/league/efl-carabao-cup/">EFL Carabao Cup</a></li>
+	<li id="menu-item-104326" class="menu-item menu-item-type-taxonomy menu-item-object-sp_league menu-item-104326"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/league/scots-premiership/">Scots Premiership</a></li>
+	<li id="menu-item-104325" class="menu-item menu-item-type-taxonomy menu-item-object-sp_league menu-item-104325"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/league/scots-championship/">Scots Championship</a></li>
+	<li id="menu-item-104327" class="menu-item menu-item-type-taxonomy menu-item-object-sp_league menu-item-104327"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/league/scottish-league-one/">Scottish League One</a></li>
+	<li id="menu-item-104328" class="menu-item menu-item-type-taxonomy menu-item-object-sp_league menu-item-104328"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/league/scottish-league-two/">Scottish League Two</a></li>
+	<li id="menu-item-104313" class="menu-item menu-item-type-taxonomy menu-item-object-sp_league menu-item-104313"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/league/champions-league/">Champions League</a></li>
+	<li id="menu-item-104316" class="menu-item menu-item-type-taxonomy menu-item-object-sp_league menu-item-104316"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/league/uefa-europa-league/">Europa League</a></li>
+	<li id="menu-item-104317" class="menu-item menu-item-type-taxonomy menu-item-object-sp_league menu-item-104317"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/league/fa-cup/">FA Cup</a></li>
+	<li id="menu-item-104318" class="menu-item menu-item-type-taxonomy menu-item-object-sp_league menu-item-104318"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/league/fa-trophy/">FA Trophy</a></li>
+</ul>
+</li>
+</ul></div>
+        </nav>
+    </header>
+
+<div id="content">
+    <div id="primary">
+        <div class="tab-all tab-style-three">
+            <ul class="tabs-menu tabs-keep-history" data-target="#tab-contents">
+                <li class="active"><a href="#todays-matches">Todays Matches</a></li>
+                <li><a href="#latest-news">Latest</a></li>
+            </ul>
+            <div id="tab-contents" class="tab-content-wrap">
+                <div id="todays-matches" class="tab-content active">
+                    <div class="fanzalive-matches" data-date="2020-12-02" data-league_id="" data-loading="Loading...">        <div class="calendar">
+            <div class="owl-carousel">
+                <div class="calendar-date" data-date="2020-11-17">
+                            <div class="name">Tue</div>
+                            <div class="desc">17 Nov</div>
+                        </div><div class="calendar-date" data-date="2020-11-18">
+                            <div class="name">Wed</div>
+                            <div class="desc">18 Nov</div>
+                        </div><div class="calendar-date" data-date="2020-11-19">
+                            <div class="name">Thu</div>
+                            <div class="desc">19 Nov</div>
+                        </div><div class="calendar-date" data-date="2020-11-20">
+                            <div class="name">Fri</div>
+                            <div class="desc">20 Nov</div>
+                        </div><div class="calendar-date" data-date="2020-11-21">
+                            <div class="name">Sat</div>
+                            <div class="desc">21 Nov</div>
+                        </div><div class="calendar-date" data-date="2020-11-22">
+                            <div class="name">Sun</div>
+                            <div class="desc">22 Nov</div>
+                        </div><div class="calendar-date" data-date="2020-11-23">
+                            <div class="name">Mon</div>
+                            <div class="desc">23 Nov</div>
+                        </div><div class="calendar-date" data-date="2020-11-24">
+                            <div class="name">Tue</div>
+                            <div class="desc">24 Nov</div>
+                        </div><div class="calendar-date" data-date="2020-11-25">
+                            <div class="name">Wed</div>
+                            <div class="desc">25 Nov</div>
+                        </div><div class="calendar-date" data-date="2020-11-26">
+                            <div class="name">Thu</div>
+                            <div class="desc">26 Nov</div>
+                        </div><div class="calendar-date" data-date="2020-11-27">
+                            <div class="name">Fri</div>
+                            <div class="desc">27 Nov</div>
+                        </div><div class="calendar-date" data-date="2020-11-28">
+                            <div class="name">Sat</div>
+                            <div class="desc">28 Nov</div>
+                        </div><div class="calendar-date" data-date="2020-11-29">
+                            <div class="name">Sun</div>
+                            <div class="desc">29 Nov</div>
+                        </div><div class="calendar-date" data-date="2020-11-30">
+                            <div class="name">Mon</div>
+                            <div class="desc">30 Nov</div>
+                        </div><div class="calendar-date" data-date="2020-12-01">
+                            <div class="name">Tue</div>
+                            <div class="desc">01 Dec</div>
+                        </div><div class="calendar-date date-active" data-date="2020-12-02">
+                            <div class="name">Today</div>
+                            <div class="desc">02 Dec</div>
+                        </div><div class="calendar-date" data-date="2020-12-03">
+                            <div class="name">Thu</div>
+                            <div class="desc">03 Dec</div>
+                        </div><div class="calendar-date" data-date="2020-12-04">
+                            <div class="name">Fri</div>
+                            <div class="desc">04 Dec</div>
+                        </div><div class="calendar-date" data-date="2020-12-05">
+                            <div class="name">Sat</div>
+                            <div class="desc">05 Dec</div>
+                        </div><div class="calendar-date" data-date="2020-12-06">
+                            <div class="name">Sun</div>
+                            <div class="desc">06 Dec</div>
+                        </div><div class="calendar-date" data-date="2020-12-07">
+                            <div class="name">Mon</div>
+                            <div class="desc">07 Dec</div>
+                        </div><div class="calendar-date" data-date="2020-12-08">
+                            <div class="name">Tue</div>
+                            <div class="desc">08 Dec</div>
+                        </div><div class="calendar-date" data-date="2020-12-09">
+                            <div class="name">Wed</div>
+                            <div class="desc">09 Dec</div>
+                        </div><div class="calendar-date" data-date="2020-12-10">
+                            <div class="name">Thu</div>
+                            <div class="desc">10 Dec</div>
+                        </div><div class="calendar-date" data-date="2020-12-11">
+                            <div class="name">Fri</div>
+                            <div class="desc">11 Dec</div>
+                        </div><div class="calendar-date" data-date="2020-12-12">
+                            <div class="name">Sat</div>
+                            <div class="desc">12 Dec</div>
+                        </div><div class="calendar-date" data-date="2020-12-13">
+                            <div class="name">Sun</div>
+                            <div class="desc">13 Dec</div>
+                        </div><div class="calendar-date" data-date="2020-12-14">
+                            <div class="name">Mon</div>
+                            <div class="desc">14 Dec</div>
+                        </div><div class="calendar-date" data-date="2020-12-15">
+                            <div class="name">Tue</div>
+                            <div class="desc">15 Dec</div>
+                        </div><div class="calendar-date" data-date="2020-12-16">
+                            <div class="name">Wed</div>
+                            <div class="desc">16 Dec</div>
+                        </div>            </div>
+        </div>
+                <table class="matches">
+        <tbody><tr id="league-732" class="row-league">
+    <td colspan="3">National League South</td>
+</tr>
+<tr id="match-100665" class="row-match status-fixture">
+    <td class="col-home"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/havant-wville-vs-hemel-hempstead-town/?team=home" class="match-team-link">Havant &#038; Wville</a>    </td>
+    <td class="col-status"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/havant-wville-vs-hemel-hempstead-town/">
+                    <div class="hours">01:00</div>
+                </a></td>
+    <td class="col-away"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/havant-wville-vs-hemel-hempstead-town/?team=away" class="match-team-link">Hemel Hempstead Town</a>    </td>
+</tr>
+<tr id="league-718" class="row-league">
+    <td colspan="3">Championship</td>
+</tr>
+<tr id="match-93117" class="row-match status-fixture">
+    <td class="col-home"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/blackburn-vs-millwall/?team=home" class="match-team-link">Blackburn</a>    </td>
+    <td class="col-status"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/blackburn-vs-millwall/">
+                    <div class="hours">20:45</div>
+                </a></td>
+    <td class="col-away"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/blackburn-vs-millwall/?team=away" class="match-team-link">Millwall</a>    </td>
+</tr>
+<tr id="match-93118" class="row-match status-fixture">
+    <td class="col-home"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/luton-vs-norwich/?team=home" class="match-team-link">Luton</a>    </td>
+    <td class="col-status"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/luton-vs-norwich/">
+                    <div class="hours">20:45</div>
+                </a></td>
+    <td class="col-away"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/luton-vs-norwich/?team=away" class="match-team-link">Norwich</a>    </td>
+</tr>
+<tr id="match-93119" class="row-match status-fixture">
+    <td class="col-home"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/middlesbrough-vs-swansea/?team=home" class="match-team-link">Middlesbrough</a>    </td>
+    <td class="col-status"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/middlesbrough-vs-swansea/">
+                    <div class="hours">20:45</div>
+                </a></td>
+    <td class="col-away"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/middlesbrough-vs-swansea/?team=away" class="match-team-link">Swansea</a>    </td>
+</tr>
+<tr id="match-93120" class="row-match status-fixture">
+    <td class="col-home"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/nottingham-forest-vs-watford/?team=home" class="match-team-link">Nottingham Forest</a>    </td>
+    <td class="col-status"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/nottingham-forest-vs-watford/">
+                    <div class="hours">20:45</div>
+                </a></td>
+    <td class="col-away"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/nottingham-forest-vs-watford/?team=away" class="match-team-link">Watford</a>    </td>
+</tr>
+<tr id="match-93121" class="row-match status-fixture">
+    <td class="col-home"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/sheffield-wednesday-vs-reading/?team=home" class="match-team-link">Sheffield Wednesday</a>    </td>
+    <td class="col-status"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/sheffield-wednesday-vs-reading/">
+                    <div class="hours">20:45</div>
+                </a></td>
+    <td class="col-away"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/sheffield-wednesday-vs-reading/?team=away" class="match-team-link">Reading</a>    </td>
+</tr>
+<tr id="match-93122" class="row-match status-fixture">
+    <td class="col-home"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/wycombe-vs-stoke-city/?team=home" class="match-team-link">Wycombe</a>    </td>
+    <td class="col-status"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/wycombe-vs-stoke-city/">
+                    <div class="hours">20:45</div>
+                </a></td>
+    <td class="col-away"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/wycombe-vs-stoke-city/?team=away" class="match-team-link">Stoke City</a>    </td>
+</tr>
+</tbody>
+        </table>
+        </div>                </div>
+                <div id="latest-news" class="tab-content">
+                    <div class="home-cols">
+                        <div class="home-col home-col-three">
+                                                            <div id="fanzalive_latest_news-2" class="widget widget_fanzalive_latest_news"><h3 class="widget-title">&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;- Live</h3><div class="event-commentaries widget-commentaries"><div id="commentary-601" class="event-commentary commentary-team-away commentary-type-goal">
+
+    <a style="text-decoration: none;" href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/author/admin/">
+        <img class="avatar" style="float:left; width:40px; border-radius:50%; margin-right:20px " src="https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/Anthony-Patchett-Passport-photo-150x150.jpg"/>
+
+                    <div class="event-time">5"</div>
+        
+        <div class="comment-author-wrap">
+            <div class="comment-author" style="color:#c10303; font-size: 20px; text-transform: capitalize; font-weight: bold">Anthony</div>
+            <div class="comment-time">13:41 pm</div>
+        </div>
+    </a>
+
+    <a class="event-link" href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/qpr-vs-middlesbrough/?team=away#commentary-601">
+
+                <!--<div class="event-league">Championship</div>-->
+        
+        <div class="comment-scores"><span class="team-wrap home-team-wrap">
+                <span class="team-name" style="color:#999;">QPR</span>
+                <span class="team-score" style="color:#999;">1</span>
+            </span>
+            <span class="team-sep">:</span>
+            <span class="team-wrap away-team-wrap">
+                <span class="team-name" style="color:#000;" style="color:#999">Middlesbrough</span>
+                <span class="team-score" style="color:#000;">1</span>
+            </span>
+        </div>
+
+        <div class="comment-heading">Goal</div>
+        <div class="comment-content"><p>Probably best Goal of the season. A 30 yard screamer. So pwerful the keeper didnt&#8230;</div>
+                    <div class="comment-images">
+                                           <img src="https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/goal-net-2.png" alt="">
+                         </div>
+    </a>
+    <!-- <div class="social_icon_section" style="padding: 20px 15px 0;">
+       <div class="heateor_sss_sharing_container heateor_sss_horizontal_sharing" ss-offset="0" heateor-sss-data-href='https://www.fanzalive.co.uk/'><ul class="heateor_sss_sharing_ul"><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Facebook" Title="Facebook" class="heateorSssSharing heateorSssFacebookBackground" onclick='heateorSssPopup("https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.fanzalive.co.uk")'><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssFacebookSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Twitter" Title="Twitter" class="heateorSssSharing heateorSssTwitterBackground" onclick='heateorSssPopup("http://twitter.com/intent/tweet?text=Live%20Reporting%20by%20the%20Fans&url=https%3A%2F%2Fwww.fanzalive.co.uk")'><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssTwitterSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Whatsapp" Title="Whatsapp" class="heateorSssSharing heateorSssWhatsappBackground"><a  href="https://web.whatsapp.com/send?text=Live%20Reporting%20by%20the%20Fans https%3A%2F%2Fwww.fanzalive.co.uk" rel="nofollow noopener" target="_blank"><ss style="display:block" class="heateorSssSharingSvg heateorSssWhatsappSvg"></ss></a></i></li></ul><div class="heateorSssClear"></div></div>    </div> -->
+    <div class="social_icon_section" style="padding: 20px 15px 0;">
+       <div class="heateor_sss_sharing_container heateor_sss_horizontal_sharing" ss-offset="0" heateor-sss-data-href="https://www.fanzalive.co.uk/tarun/"><ul class="heateor_sss_sharing_ul"><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Facebook" title="Facebook" class="heateorSssSharing heateorSssFacebookBackground" onclick="heateorSssPopup(&quot;https://web.archive.org/web/20201202122945/https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun&quot;)"><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssFacebookSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Twitter" title="Twitter" class="heateorSssSharing heateorSssTwitterBackground" onclick="heateorSssPopup(&quot;https://web.archive.org/web/20201202122945/http://twitter.com/intent/tweet?text=Home&amp;url=https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun&quot;)"><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssTwitterSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Whatsapp" title="Whatsapp" class="heateorSssSharing heateorSssWhatsappBackground"><a href="https://web.archive.org/web/20201202122945/https://web.whatsapp.com/send?text=Home https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun" rel="nofollow noopener" target="_blank"><ss style="display:block" class="heateorSssSharingSvg heateorSssWhatsappSvg"></ss></a></i></li></ul><div class="heateorSssClear"></div></div>    
+    </div>
+</div><div id="commentary-600" class="event-commentary commentary-team-away commentary-type-sentoff">
+
+    <a style="text-decoration: none;" href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/author/admin/">
+        <img class="avatar" style="float:left; width:40px; border-radius:50%; margin-right:20px " src="https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/Anthony-Patchett-Passport-photo-150x150.jpg"/>
+
+        
+        <div class="comment-author-wrap">
+            <div class="comment-author" style="color:#c10303; font-size: 20px; text-transform: capitalize; font-weight: bold">Anthony</div>
+            <div class="comment-time">15:07 pm</div>
+        </div>
+    </a>
+
+    <a class="event-link" href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/qpr-vs-middlesbrough/?team=away#commentary-600">
+
+                <!--<div class="event-league">Championship</div>-->
+        
+        <div class="comment-scores"><span class="team-wrap home-team-wrap">
+                <span class="team-name" style="color:#999;">QPR</span>
+                <span class="team-score" style="color:#999;">0</span>
+            </span>
+            <span class="team-sep">:</span>
+            <span class="team-wrap away-team-wrap">
+                <span class="team-name" style="color:#000;" style="color:#999">Middlesbrough</span>
+                <span class="team-score" style="color:#000;">0</span>
+            </span>
+        </div>
+
+        <div class="comment-heading">Sent Off</div>
+        <div class="comment-content"><p>Test sent off</p></div>
+                    <div class="comment-images"><img width="140" height="116" src="https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/fanzalive-v-smll.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/fanzalive-v-smll.png 140w, https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/fanzalive-v-smll-128x106.png 128w, https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/fanzalive-v-smll-32x27.png 32w" sizes="(max-width: 140px) 100vw, 140px"/></div>
+                    <div class="comment-images">
+                                       </div>
+    </a>
+    <!-- <div class="social_icon_section" style="padding: 20px 15px 0;">
+       <div class="heateor_sss_sharing_container heateor_sss_horizontal_sharing" ss-offset="0" heateor-sss-data-href='https://www.fanzalive.co.uk/'><ul class="heateor_sss_sharing_ul"><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Facebook" Title="Facebook" class="heateorSssSharing heateorSssFacebookBackground" onclick='heateorSssPopup("https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.fanzalive.co.uk")'><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssFacebookSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Twitter" Title="Twitter" class="heateorSssSharing heateorSssTwitterBackground" onclick='heateorSssPopup("http://twitter.com/intent/tweet?text=Live%20Reporting%20by%20the%20Fans&url=https%3A%2F%2Fwww.fanzalive.co.uk")'><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssTwitterSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Whatsapp" Title="Whatsapp" class="heateorSssSharing heateorSssWhatsappBackground"><a  href="https://web.whatsapp.com/send?text=Live%20Reporting%20by%20the%20Fans https%3A%2F%2Fwww.fanzalive.co.uk" rel="nofollow noopener" target="_blank"><ss style="display:block" class="heateorSssSharingSvg heateorSssWhatsappSvg"></ss></a></i></li></ul><div class="heateorSssClear"></div></div>    </div> -->
+    <div class="social_icon_section" style="padding: 20px 15px 0;">
+       <div class="heateor_sss_sharing_container heateor_sss_horizontal_sharing" ss-offset="0" heateor-sss-data-href="https://www.fanzalive.co.uk/tarun/"><ul class="heateor_sss_sharing_ul"><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Facebook" title="Facebook" class="heateorSssSharing heateorSssFacebookBackground" onclick="heateorSssPopup(&quot;https://web.archive.org/web/20201202122945/https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun&quot;)"><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssFacebookSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Twitter" title="Twitter" class="heateorSssSharing heateorSssTwitterBackground" onclick="heateorSssPopup(&quot;https://web.archive.org/web/20201202122945/http://twitter.com/intent/tweet?text=Home&amp;url=https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun&quot;)"><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssTwitterSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Whatsapp" title="Whatsapp" class="heateorSssSharing heateorSssWhatsappBackground"><a href="https://web.archive.org/web/20201202122945/https://web.whatsapp.com/send?text=Home https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun" rel="nofollow noopener" target="_blank"><ss style="display:block" class="heateorSssSharingSvg heateorSssWhatsappSvg"></ss></a></i></li></ul><div class="heateorSssClear"></div></div>    
+    </div>
+</div><div id="commentary-599" class="event-commentary commentary-team-away commentary-type-var">
+
+    <a style="text-decoration: none;" href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/author/admin/">
+        <img class="avatar" style="float:left; width:40px; border-radius:50%; margin-right:20px " src="https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/Anthony-Patchett-Passport-photo-150x150.jpg"/>
+
+        
+        <div class="comment-author-wrap">
+            <div class="comment-author" style="color:#c10303; font-size: 20px; text-transform: capitalize; font-weight: bold">Anthony</div>
+            <div class="comment-time">15:06 pm</div>
+        </div>
+    </a>
+
+    <a class="event-link" href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/qpr-vs-middlesbrough/?team=away#commentary-599">
+
+                <!--<div class="event-league">Championship</div>-->
+        
+        <div class="comment-scores"><span class="team-wrap home-team-wrap">
+                <span class="team-name" style="color:#999;">QPR</span>
+                <span class="team-score" style="color:#999;">0</span>
+            </span>
+            <span class="team-sep">:</span>
+            <span class="team-wrap away-team-wrap">
+                <span class="team-name" style="color:#000;" style="color:#999">Middlesbrough</span>
+                <span class="team-score" style="color:#000;">0</span>
+            </span>
+        </div>
+
+        <div class="comment-heading">VAR</div>
+        <div class="comment-content"><p>Test Var</p></div>
+                    <div class="comment-images">
+                                       </div>
+    </a>
+    <!-- <div class="social_icon_section" style="padding: 20px 15px 0;">
+       <div class="heateor_sss_sharing_container heateor_sss_horizontal_sharing" ss-offset="0" heateor-sss-data-href='https://www.fanzalive.co.uk/'><ul class="heateor_sss_sharing_ul"><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Facebook" Title="Facebook" class="heateorSssSharing heateorSssFacebookBackground" onclick='heateorSssPopup("https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.fanzalive.co.uk")'><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssFacebookSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Twitter" Title="Twitter" class="heateorSssSharing heateorSssTwitterBackground" onclick='heateorSssPopup("http://twitter.com/intent/tweet?text=Live%20Reporting%20by%20the%20Fans&url=https%3A%2F%2Fwww.fanzalive.co.uk")'><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssTwitterSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Whatsapp" Title="Whatsapp" class="heateorSssSharing heateorSssWhatsappBackground"><a  href="https://web.whatsapp.com/send?text=Live%20Reporting%20by%20the%20Fans https%3A%2F%2Fwww.fanzalive.co.uk" rel="nofollow noopener" target="_blank"><ss style="display:block" class="heateorSssSharingSvg heateorSssWhatsappSvg"></ss></a></i></li></ul><div class="heateorSssClear"></div></div>    </div> -->
+    <div class="social_icon_section" style="padding: 20px 15px 0;">
+       <div class="heateor_sss_sharing_container heateor_sss_horizontal_sharing" ss-offset="0" heateor-sss-data-href="https://www.fanzalive.co.uk/tarun/"><ul class="heateor_sss_sharing_ul"><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Facebook" title="Facebook" class="heateorSssSharing heateorSssFacebookBackground" onclick="heateorSssPopup(&quot;https://web.archive.org/web/20201202122945/https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun&quot;)"><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssFacebookSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Twitter" title="Twitter" class="heateorSssSharing heateorSssTwitterBackground" onclick="heateorSssPopup(&quot;https://web.archive.org/web/20201202122945/http://twitter.com/intent/tweet?text=Home&amp;url=https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun&quot;)"><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssTwitterSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Whatsapp" title="Whatsapp" class="heateorSssSharing heateorSssWhatsappBackground"><a href="https://web.archive.org/web/20201202122945/https://web.whatsapp.com/send?text=Home https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun" rel="nofollow noopener" target="_blank"><ss style="display:block" class="heateorSssSharingSvg heateorSssWhatsappSvg"></ss></a></i></li></ul><div class="heateorSssClear"></div></div>    
+    </div>
+</div><div id="commentary-598" class="event-commentary commentary-team-away commentary-type-redcard">
+
+    <a style="text-decoration: none;" href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/author/admin/">
+        <img class="avatar" style="float:left; width:40px; border-radius:50%; margin-right:20px " src="https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/Anthony-Patchett-Passport-photo-150x150.jpg"/>
+
+        
+        <div class="comment-author-wrap">
+            <div class="comment-author" style="color:#c10303; font-size: 20px; text-transform: capitalize; font-weight: bold">Anthony</div>
+            <div class="comment-time">14:48 pm</div>
+        </div>
+    </a>
+
+    <a class="event-link" href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/qpr-vs-middlesbrough/?team=away#commentary-598">
+
+                <!--<div class="event-league">Championship</div>-->
+        
+        <div class="comment-scores"><span class="team-wrap home-team-wrap">
+                <span class="team-name" style="color:#999;">QPR</span>
+                <span class="team-score" style="color:#999;">0</span>
+            </span>
+            <span class="team-sep">:</span>
+            <span class="team-wrap away-team-wrap">
+                <span class="team-name" style="color:#000;" style="color:#999">Middlesbrough</span>
+                <span class="team-score" style="color:#000;">0</span>
+            </span>
+        </div>
+
+        <div class="comment-heading">Red Card</div>
+        <div class="comment-content"><p>Test Red</p></div>
+                    <div class="comment-images"><img width="1024" height="661" src="https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/cards-1024x661.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/cards-1024x661.png 1024w, https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/cards-300x194.png 300w, https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/cards-768x496.png 768w, https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/cards-128x83.png 128w, https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/cards-32x21.png 32w, https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/cards.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px"/></div>
+                    <div class="comment-images">
+                                       </div>
+    </a>
+    <!-- <div class="social_icon_section" style="padding: 20px 15px 0;">
+       <div class="heateor_sss_sharing_container heateor_sss_horizontal_sharing" ss-offset="0" heateor-sss-data-href='https://www.fanzalive.co.uk/'><ul class="heateor_sss_sharing_ul"><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Facebook" Title="Facebook" class="heateorSssSharing heateorSssFacebookBackground" onclick='heateorSssPopup("https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.fanzalive.co.uk")'><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssFacebookSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Twitter" Title="Twitter" class="heateorSssSharing heateorSssTwitterBackground" onclick='heateorSssPopup("http://twitter.com/intent/tweet?text=Live%20Reporting%20by%20the%20Fans&url=https%3A%2F%2Fwww.fanzalive.co.uk")'><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssTwitterSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Whatsapp" Title="Whatsapp" class="heateorSssSharing heateorSssWhatsappBackground"><a  href="https://web.whatsapp.com/send?text=Live%20Reporting%20by%20the%20Fans https%3A%2F%2Fwww.fanzalive.co.uk" rel="nofollow noopener" target="_blank"><ss style="display:block" class="heateorSssSharingSvg heateorSssWhatsappSvg"></ss></a></i></li></ul><div class="heateorSssClear"></div></div>    </div> -->
+    <div class="social_icon_section" style="padding: 20px 15px 0;">
+       <div class="heateor_sss_sharing_container heateor_sss_horizontal_sharing" ss-offset="0" heateor-sss-data-href="https://www.fanzalive.co.uk/tarun/"><ul class="heateor_sss_sharing_ul"><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Facebook" title="Facebook" class="heateorSssSharing heateorSssFacebookBackground" onclick="heateorSssPopup(&quot;https://web.archive.org/web/20201202122945/https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun&quot;)"><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssFacebookSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Twitter" title="Twitter" class="heateorSssSharing heateorSssTwitterBackground" onclick="heateorSssPopup(&quot;https://web.archive.org/web/20201202122945/http://twitter.com/intent/tweet?text=Home&amp;url=https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun&quot;)"><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssTwitterSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Whatsapp" title="Whatsapp" class="heateorSssSharing heateorSssWhatsappBackground"><a href="https://web.archive.org/web/20201202122945/https://web.whatsapp.com/send?text=Home https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun" rel="nofollow noopener" target="_blank"><ss style="display:block" class="heateorSssSharingSvg heateorSssWhatsappSvg"></ss></a></i></li></ul><div class="heateorSssClear"></div></div>    
+    </div>
+</div><div id="commentary-597" class="event-commentary commentary-team-away commentary-type-yellowcard">
+
+    <a style="text-decoration: none;" href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/author/admin/">
+        <img class="avatar" style="float:left; width:40px; border-radius:50%; margin-right:20px " src="https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/Anthony-Patchett-Passport-photo-150x150.jpg"/>
+
+                    <div class="event-time">6"</div>
+        
+        <div class="comment-author-wrap">
+            <div class="comment-author" style="color:#c10303; font-size: 20px; text-transform: capitalize; font-weight: bold">Anthony</div>
+            <div class="comment-time">14:45 pm</div>
+        </div>
+    </a>
+
+    <a class="event-link" href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/qpr-vs-middlesbrough/?team=away#commentary-597">
+
+                <!--<div class="event-league">Championship</div>-->
+        
+        <div class="comment-scores"><span class="team-wrap home-team-wrap">
+                <span class="team-name" style="color:#999;">QPR</span>
+                <span class="team-score" style="color:#999;">0</span>
+            </span>
+            <span class="team-sep">:</span>
+            <span class="team-wrap away-team-wrap">
+                <span class="team-name" style="color:#000;" style="color:#999">Middlesbrough</span>
+                <span class="team-score" style="color:#000;">0</span>
+            </span>
+        </div>
+
+        <div class="comment-heading">Yellow Card</div>
+        <div class="comment-content"><p>Test Yellow</p></div>
+                    <div class="comment-images">
+                                       </div>
+    </a>
+    <!-- <div class="social_icon_section" style="padding: 20px 15px 0;">
+       <div class="heateor_sss_sharing_container heateor_sss_horizontal_sharing" ss-offset="0" heateor-sss-data-href='https://www.fanzalive.co.uk/'><ul class="heateor_sss_sharing_ul"><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Facebook" Title="Facebook" class="heateorSssSharing heateorSssFacebookBackground" onclick='heateorSssPopup("https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.fanzalive.co.uk")'><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssFacebookSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Twitter" Title="Twitter" class="heateorSssSharing heateorSssTwitterBackground" onclick='heateorSssPopup("http://twitter.com/intent/tweet?text=Live%20Reporting%20by%20the%20Fans&url=https%3A%2F%2Fwww.fanzalive.co.uk")'><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssTwitterSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Whatsapp" Title="Whatsapp" class="heateorSssSharing heateorSssWhatsappBackground"><a  href="https://web.whatsapp.com/send?text=Live%20Reporting%20by%20the%20Fans https%3A%2F%2Fwww.fanzalive.co.uk" rel="nofollow noopener" target="_blank"><ss style="display:block" class="heateorSssSharingSvg heateorSssWhatsappSvg"></ss></a></i></li></ul><div class="heateorSssClear"></div></div>    </div> -->
+    <div class="social_icon_section" style="padding: 20px 15px 0;">
+       <div class="heateor_sss_sharing_container heateor_sss_horizontal_sharing" ss-offset="0" heateor-sss-data-href="https://www.fanzalive.co.uk/tarun/"><ul class="heateor_sss_sharing_ul"><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Facebook" title="Facebook" class="heateorSssSharing heateorSssFacebookBackground" onclick="heateorSssPopup(&quot;https://web.archive.org/web/20201202122945/https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun&quot;)"><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssFacebookSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Twitter" title="Twitter" class="heateorSssSharing heateorSssTwitterBackground" onclick="heateorSssPopup(&quot;https://web.archive.org/web/20201202122945/http://twitter.com/intent/tweet?text=Home&amp;url=https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun&quot;)"><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssTwitterSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Whatsapp" title="Whatsapp" class="heateorSssSharing heateorSssWhatsappBackground"><a href="https://web.archive.org/web/20201202122945/https://web.whatsapp.com/send?text=Home https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun" rel="nofollow noopener" target="_blank"><ss style="display:block" class="heateorSssSharingSvg heateorSssWhatsappSvg"></ss></a></i></li></ul><div class="heateorSssClear"></div></div>    
+    </div>
+</div></div></div><div id="media_image-3" class="widget widget_media_image"><h3 class="widget-title">Join Us</h3><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/join-us/"><img width="300" height="200" src="https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/fanzalive-Reporter-300x200.png" class="image wp-image-49685  attachment-medium size-medium" alt="Report for Us" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/fanzalive-Reporter-300x200.png 300w, https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/fanzalive-Reporter-768x512.png 768w, https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/fanzalive-Reporter-1024x682.png 1024w, https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/fanzalive-Reporter-128x85.png 128w, https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/fanzalive-Reporter-32x21.png 32w, https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/fanzalive-Reporter-600x400.png 600w, https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/fanzalive-Reporter.png 1100w" sizes="(max-width: 300px) 100vw, 300px"/></a></div>                                                    </div>
+                        <div class="home-col home-col-four">
+                                                            <div id="fanzalive_latest_news-3" class="widget widget_fanzalive_latest_news"><div class="event-commentaries widget-commentaries"><div id="commentary-594" class="event-commentary commentary-team-away commentary-type-goal">
+
+    <a style="text-decoration: none;" href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/author/admin/">
+        <img class="avatar" style="float:left; width:40px; border-radius:50%; margin-right:20px " src="https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/Anthony-Patchett-Passport-photo-150x150.jpg"/>
+
+                    <div class="event-time">10"</div>
+        
+        <div class="comment-author-wrap">
+            <div class="comment-author" style="color:#c10303; font-size: 20px; text-transform: capitalize; font-weight: bold">Anthony</div>
+            <div class="comment-time">14:41 pm</div>
+        </div>
+    </a>
+
+    <a class="event-link" href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/qpr-vs-middlesbrough/?team=away#commentary-594">
+
+                <!--<div class="event-league">Championship</div>-->
+        
+        <div class="comment-scores"><span class="team-wrap home-team-wrap">
+                <span class="team-name" style="color:#999;">QPR</span>
+                <span class="team-score" style="color:#999;">0</span>
+            </span>
+            <span class="team-sep">:</span>
+            <span class="team-wrap away-team-wrap">
+                <span class="team-name" style="color:#000;" style="color:#999">Middlesbrough</span>
+                <span class="team-score" style="color:#000;">0</span>
+            </span>
+        </div>
+
+        <div class="comment-heading">Goal</div>
+        <div class="comment-content"><p>Goal 1</p></div>
+                    <div class="comment-images">
+                                           <img src="https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/goal-net-2.png" alt="">
+                         </div>
+    </a>
+    <!-- <div class="social_icon_section" style="padding: 20px 15px 0;">
+       <div class="heateor_sss_sharing_container heateor_sss_horizontal_sharing" ss-offset="0" heateor-sss-data-href='https://www.fanzalive.co.uk/'><ul class="heateor_sss_sharing_ul"><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Facebook" Title="Facebook" class="heateorSssSharing heateorSssFacebookBackground" onclick='heateorSssPopup("https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.fanzalive.co.uk")'><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssFacebookSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Twitter" Title="Twitter" class="heateorSssSharing heateorSssTwitterBackground" onclick='heateorSssPopup("http://twitter.com/intent/tweet?text=Live%20Reporting%20by%20the%20Fans&url=https%3A%2F%2Fwww.fanzalive.co.uk")'><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssTwitterSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Whatsapp" Title="Whatsapp" class="heateorSssSharing heateorSssWhatsappBackground"><a  href="https://web.whatsapp.com/send?text=Live%20Reporting%20by%20the%20Fans https%3A%2F%2Fwww.fanzalive.co.uk" rel="nofollow noopener" target="_blank"><ss style="display:block" class="heateorSssSharingSvg heateorSssWhatsappSvg"></ss></a></i></li></ul><div class="heateorSssClear"></div></div>    </div> -->
+    <div class="social_icon_section" style="padding: 20px 15px 0;">
+       <div class="heateor_sss_sharing_container heateor_sss_horizontal_sharing" ss-offset="0" heateor-sss-data-href="https://www.fanzalive.co.uk/tarun/"><ul class="heateor_sss_sharing_ul"><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Facebook" title="Facebook" class="heateorSssSharing heateorSssFacebookBackground" onclick="heateorSssPopup(&quot;https://web.archive.org/web/20201202122945/https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun&quot;)"><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssFacebookSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Twitter" title="Twitter" class="heateorSssSharing heateorSssTwitterBackground" onclick="heateorSssPopup(&quot;https://web.archive.org/web/20201202122945/http://twitter.com/intent/tweet?text=Home&amp;url=https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun&quot;)"><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssTwitterSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Whatsapp" title="Whatsapp" class="heateorSssSharing heateorSssWhatsappBackground"><a href="https://web.archive.org/web/20201202122945/https://web.whatsapp.com/send?text=Home https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun" rel="nofollow noopener" target="_blank"><ss style="display:block" class="heateorSssSharingSvg heateorSssWhatsappSvg"></ss></a></i></li></ul><div class="heateorSssClear"></div></div>    
+    </div>
+</div><div id="commentary-593" class="event-commentary commentary-team-away commentary-type-gamestarted">
+
+    <a style="text-decoration: none;" href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/author/admin/">
+        <img class="avatar" style="float:left; width:40px; border-radius:50%; margin-right:20px " src="https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/Anthony-Patchett-Passport-photo-150x150.jpg"/>
+
+                    <div class="event-time">1"</div>
+        
+        <div class="comment-author-wrap">
+            <div class="comment-author" style="color:#c10303; font-size: 20px; text-transform: capitalize; font-weight: bold">Anthony</div>
+            <div class="comment-time">14:35 pm</div>
+        </div>
+    </a>
+
+    <a class="event-link" href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/qpr-vs-middlesbrough/?team=away#commentary-593">
+
+                <!--<div class="event-league">Championship</div>-->
+        
+        <div class="comment-scores"><span class="team-wrap home-team-wrap">
+                <span class="team-name" style="color:#999;">QPR</span>
+                <span class="team-score" style="color:#999;">0</span>
+            </span>
+            <span class="team-sep">:</span>
+            <span class="team-wrap away-team-wrap">
+                <span class="team-name" style="color:#000;" style="color:#999">Middlesbrough</span>
+                <span class="team-score" style="color:#000;">0</span>
+            </span>
+        </div>
+
+        <div class="comment-heading">Game Started</div>
+        <div class="comment-content"><p>test</p></div>
+                    <div class="comment-images">
+                             <img src="https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/live-sm-v1.png" alt="">
+                                       </div>
+    </a>
+    <!-- <div class="social_icon_section" style="padding: 20px 15px 0;">
+       <div class="heateor_sss_sharing_container heateor_sss_horizontal_sharing" ss-offset="0" heateor-sss-data-href='https://www.fanzalive.co.uk/'><ul class="heateor_sss_sharing_ul"><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Facebook" Title="Facebook" class="heateorSssSharing heateorSssFacebookBackground" onclick='heateorSssPopup("https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.fanzalive.co.uk")'><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssFacebookSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Twitter" Title="Twitter" class="heateorSssSharing heateorSssTwitterBackground" onclick='heateorSssPopup("http://twitter.com/intent/tweet?text=Live%20Reporting%20by%20the%20Fans&url=https%3A%2F%2Fwww.fanzalive.co.uk")'><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssTwitterSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Whatsapp" Title="Whatsapp" class="heateorSssSharing heateorSssWhatsappBackground"><a  href="https://web.whatsapp.com/send?text=Live%20Reporting%20by%20the%20Fans https%3A%2F%2Fwww.fanzalive.co.uk" rel="nofollow noopener" target="_blank"><ss style="display:block" class="heateorSssSharingSvg heateorSssWhatsappSvg"></ss></a></i></li></ul><div class="heateorSssClear"></div></div>    </div> -->
+    <div class="social_icon_section" style="padding: 20px 15px 0;">
+       <div class="heateor_sss_sharing_container heateor_sss_horizontal_sharing" ss-offset="0" heateor-sss-data-href="https://www.fanzalive.co.uk/tarun/"><ul class="heateor_sss_sharing_ul"><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Facebook" title="Facebook" class="heateorSssSharing heateorSssFacebookBackground" onclick="heateorSssPopup(&quot;https://web.archive.org/web/20201202122945/https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun&quot;)"><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssFacebookSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Twitter" title="Twitter" class="heateorSssSharing heateorSssTwitterBackground" onclick="heateorSssPopup(&quot;https://web.archive.org/web/20201202122945/http://twitter.com/intent/tweet?text=Home&amp;url=https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun&quot;)"><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssTwitterSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Whatsapp" title="Whatsapp" class="heateorSssSharing heateorSssWhatsappBackground"><a href="https://web.archive.org/web/20201202122945/https://web.whatsapp.com/send?text=Home https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun" rel="nofollow noopener" target="_blank"><ss style="display:block" class="heateorSssSharingSvg heateorSssWhatsappSvg"></ss></a></i></li></ul><div class="heateorSssClear"></div></div>    
+    </div>
+</div><div id="commentary-590" class="event-commentary commentary-team-away commentary-type-goal">
+
+    <a style="text-decoration: none;" href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/author/admin/">
+        <img class="avatar" style="float:left; width:40px; border-radius:50%; margin-right:20px " src="https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/Anthony-Patchett-Passport-photo-150x150.jpg"/>
+
+                    <div class="event-time">65"</div>
+        
+        <div class="comment-author-wrap">
+            <div class="comment-author" style="color:#c10303; font-size: 20px; text-transform: capitalize; font-weight: bold">Anthony</div>
+            <div class="comment-time">19:07 pm</div>
+        </div>
+    </a>
+
+    <a class="event-link" href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/manchester-united-vs-crystal-palace/?team=away#commentary-590">
+
+                <!--<div class="event-league">Premiership</div>-->
+        
+        <div class="comment-scores"><span class="team-wrap home-team-wrap">
+                <span class="team-name" style="color:#999;">Man United</span>
+                <span class="team-score" style="color:#999;">0</span>
+            </span>
+            <span class="team-sep">:</span>
+            <span class="team-wrap away-team-wrap">
+                <span class="team-name" style="color:#000;" style="color:#999">Crystal Palace</span>
+                <span class="team-score" style="color:#000;">2</span>
+            </span>
+        </div>
+
+        <div class="comment-heading">Goal</div>
+        <div class="comment-content"><p>Well well well, who&#8217;d thought &#8211; a cracking goal.</p></div>
+                    <div class="comment-images">
+                                           <img src="https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/goal-net-2.png" alt="">
+                         </div>
+    </a>
+    <!-- <div class="social_icon_section" style="padding: 20px 15px 0;">
+       <div class="heateor_sss_sharing_container heateor_sss_horizontal_sharing" ss-offset="0" heateor-sss-data-href='https://www.fanzalive.co.uk/'><ul class="heateor_sss_sharing_ul"><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Facebook" Title="Facebook" class="heateorSssSharing heateorSssFacebookBackground" onclick='heateorSssPopup("https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.fanzalive.co.uk")'><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssFacebookSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Twitter" Title="Twitter" class="heateorSssSharing heateorSssTwitterBackground" onclick='heateorSssPopup("http://twitter.com/intent/tweet?text=Live%20Reporting%20by%20the%20Fans&url=https%3A%2F%2Fwww.fanzalive.co.uk")'><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssTwitterSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Whatsapp" Title="Whatsapp" class="heateorSssSharing heateorSssWhatsappBackground"><a  href="https://web.whatsapp.com/send?text=Live%20Reporting%20by%20the%20Fans https%3A%2F%2Fwww.fanzalive.co.uk" rel="nofollow noopener" target="_blank"><ss style="display:block" class="heateorSssSharingSvg heateorSssWhatsappSvg"></ss></a></i></li></ul><div class="heateorSssClear"></div></div>    </div> -->
+    <div class="social_icon_section" style="padding: 20px 15px 0;">
+       <div class="heateor_sss_sharing_container heateor_sss_horizontal_sharing" ss-offset="0" heateor-sss-data-href="https://www.fanzalive.co.uk/tarun/"><ul class="heateor_sss_sharing_ul"><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Facebook" title="Facebook" class="heateorSssSharing heateorSssFacebookBackground" onclick="heateorSssPopup(&quot;https://web.archive.org/web/20201202122945/https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun&quot;)"><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssFacebookSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Twitter" title="Twitter" class="heateorSssSharing heateorSssTwitterBackground" onclick="heateorSssPopup(&quot;https://web.archive.org/web/20201202122945/http://twitter.com/intent/tweet?text=Home&amp;url=https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun&quot;)"><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssTwitterSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Whatsapp" title="Whatsapp" class="heateorSssSharing heateorSssWhatsappBackground"><a href="https://web.archive.org/web/20201202122945/https://web.whatsapp.com/send?text=Home https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun" rel="nofollow noopener" target="_blank"><ss style="display:block" class="heateorSssSharingSvg heateorSssWhatsappSvg"></ss></a></i></li></ul><div class="heateorSssClear"></div></div>    
+    </div>
+</div><div id="commentary-587" class="event-commentary commentary-team-home commentary-type-penalty">
+
+    <a style="text-decoration: none;" href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/author/">
+        <img class="avatar" style="float:left; width:40px; border-radius:50%; margin-right:20px " src="https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/profile-default.png"/>
+
+                    <div class="event-time">150"</div>
+        
+        <div class="comment-author-wrap">
+            <div class="comment-author" style="color:#c10303; font-size: 20px; text-transform: capitalize; font-weight: bold">tarun</div>
+            <div class="comment-time">12:00 pm</div>
+        </div>
+    </a>
+
+    <a class="event-link" href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/coventry-vs-qpr/?team=home#commentary-587">
+
+                <!--<div class="event-league">Championship</div>-->
+        
+        <div class="comment-scores"><span class="team-wrap home-team-wrap">
+                <span class="team-name" style="color:#000;">Coventry</span>
+                <span class="team-score" style="color:#000;">1</span>
+            </span>
+            <span class="team-sep">:</span>
+            <span class="team-wrap away-team-wrap">
+                <span class="team-name" style="color:#999;" style="color:#999">QPR</span>
+                <span class="team-score" style="color:#999;">0</span>
+            </span>
+        </div>
+
+        <div class="comment-heading">Penalty</div>
+        <div class="comment-content"><p>Coventry need to defends yourself</p></div>
+                    <div class="comment-images"><img width="1024" height="320" src="https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/page-header-background-1-1024x320.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/page-header-background-1-1024x320.jpg 1024w, https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/page-header-background-1-300x94.jpg 300w, https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/page-header-background-1-768x240.jpg 768w, https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/page-header-background-1-1536x480.jpg 1536w, https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/page-header-background-1-128x40.jpg 128w, https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/page-header-background-1-32x10.jpg 32w, https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/page-header-background-1.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px"/></div>
+                    <div class="comment-images">
+                                       </div>
+    </a>
+    <!-- <div class="social_icon_section" style="padding: 20px 15px 0;">
+       <div class="heateor_sss_sharing_container heateor_sss_horizontal_sharing" ss-offset="0" heateor-sss-data-href='https://www.fanzalive.co.uk/'><ul class="heateor_sss_sharing_ul"><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Facebook" Title="Facebook" class="heateorSssSharing heateorSssFacebookBackground" onclick='heateorSssPopup("https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.fanzalive.co.uk")'><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssFacebookSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Twitter" Title="Twitter" class="heateorSssSharing heateorSssTwitterBackground" onclick='heateorSssPopup("http://twitter.com/intent/tweet?text=Live%20Reporting%20by%20the%20Fans&url=https%3A%2F%2Fwww.fanzalive.co.uk")'><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssTwitterSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Whatsapp" Title="Whatsapp" class="heateorSssSharing heateorSssWhatsappBackground"><a  href="https://web.whatsapp.com/send?text=Live%20Reporting%20by%20the%20Fans https%3A%2F%2Fwww.fanzalive.co.uk" rel="nofollow noopener" target="_blank"><ss style="display:block" class="heateorSssSharingSvg heateorSssWhatsappSvg"></ss></a></i></li></ul><div class="heateorSssClear"></div></div>    </div> -->
+    <div class="social_icon_section" style="padding: 20px 15px 0;">
+       <div class="heateor_sss_sharing_container heateor_sss_horizontal_sharing" ss-offset="0" heateor-sss-data-href="https://www.fanzalive.co.uk/tarun/"><ul class="heateor_sss_sharing_ul"><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Facebook" title="Facebook" class="heateorSssSharing heateorSssFacebookBackground" onclick="heateorSssPopup(&quot;https://web.archive.org/web/20201202122945/https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun&quot;)"><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssFacebookSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Twitter" title="Twitter" class="heateorSssSharing heateorSssTwitterBackground" onclick="heateorSssPopup(&quot;https://web.archive.org/web/20201202122945/http://twitter.com/intent/tweet?text=Home&amp;url=https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun&quot;)"><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssTwitterSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Whatsapp" title="Whatsapp" class="heateorSssSharing heateorSssWhatsappBackground"><a href="https://web.archive.org/web/20201202122945/https://web.whatsapp.com/send?text=Home https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun" rel="nofollow noopener" target="_blank"><ss style="display:block" class="heateorSssSharingSvg heateorSssWhatsappSvg"></ss></a></i></li></ul><div class="heateorSssClear"></div></div>    
+    </div>
+</div><div id="commentary-582" class="event-commentary commentary-team-away commentary-type-penalty">
+
+    <a style="text-decoration: none;" href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/author/trebor_gbhotmail-co-uk/">
+        <img class="avatar" style="float:left; width:40px; border-radius:50%; margin-right:20px " src="https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/me-150x150.jpg"/>
+
+        
+        <div class="comment-author-wrap">
+            <div class="comment-author" style="color:#c10303; font-size: 20px; text-transform: capitalize; font-weight: bold">Mark Chapman</div>
+            <div class="comment-time">13:11 pm</div>
+        </div>
+    </a>
+
+    <a class="event-link" href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/nottingham-forest-vs-cardiff/?team=away#commentary-582">
+
+                <!--<div class="event-league">Championship</div>-->
+        
+        <div class="comment-scores"><span class="team-wrap home-team-wrap">
+                <span class="team-name" style="color:#999;">Nottingham Forest</span>
+                <span class="team-score" style="color:#999;">0</span>
+            </span>
+            <span class="team-sep">:</span>
+            <span class="team-wrap away-team-wrap">
+                <span class="team-name" style="color:#000;" style="color:#999">Cardiff</span>
+                <span class="team-score" style="color:#000;">0</span>
+            </span>
+        </div>
+
+        <div class="comment-heading">Penalty</div>
+        <div class="comment-content"><p>test for gianni</p></div>
+                    <div class="comment-images">
+                                       </div>
+    </a>
+    <!-- <div class="social_icon_section" style="padding: 20px 15px 0;">
+       <div class="heateor_sss_sharing_container heateor_sss_horizontal_sharing" ss-offset="0" heateor-sss-data-href='https://www.fanzalive.co.uk/'><ul class="heateor_sss_sharing_ul"><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Facebook" Title="Facebook" class="heateorSssSharing heateorSssFacebookBackground" onclick='heateorSssPopup("https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.fanzalive.co.uk")'><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssFacebookSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Twitter" Title="Twitter" class="heateorSssSharing heateorSssTwitterBackground" onclick='heateorSssPopup("http://twitter.com/intent/tweet?text=Live%20Reporting%20by%20the%20Fans&url=https%3A%2F%2Fwww.fanzalive.co.uk")'><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssTwitterSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Whatsapp" Title="Whatsapp" class="heateorSssSharing heateorSssWhatsappBackground"><a  href="https://web.whatsapp.com/send?text=Live%20Reporting%20by%20the%20Fans https%3A%2F%2Fwww.fanzalive.co.uk" rel="nofollow noopener" target="_blank"><ss style="display:block" class="heateorSssSharingSvg heateorSssWhatsappSvg"></ss></a></i></li></ul><div class="heateorSssClear"></div></div>    </div> -->
+    <div class="social_icon_section" style="padding: 20px 15px 0;">
+       <div class="heateor_sss_sharing_container heateor_sss_horizontal_sharing" ss-offset="0" heateor-sss-data-href="https://www.fanzalive.co.uk/tarun/"><ul class="heateor_sss_sharing_ul"><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Facebook" title="Facebook" class="heateorSssSharing heateorSssFacebookBackground" onclick="heateorSssPopup(&quot;https://web.archive.org/web/20201202122945/https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun&quot;)"><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssFacebookSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Twitter" title="Twitter" class="heateorSssSharing heateorSssTwitterBackground" onclick="heateorSssPopup(&quot;https://web.archive.org/web/20201202122945/http://twitter.com/intent/tweet?text=Home&amp;url=https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun&quot;)"><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssTwitterSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Whatsapp" title="Whatsapp" class="heateorSssSharing heateorSssWhatsappBackground"><a href="https://web.archive.org/web/20201202122945/https://web.whatsapp.com/send?text=Home https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun" rel="nofollow noopener" target="_blank"><ss style="display:block" class="heateorSssSharingSvg heateorSssWhatsappSvg"></ss></a></i></li></ul><div class="heateorSssClear"></div></div>    
+    </div>
+</div><div id="commentary-580" class="event-commentary commentary-team-home commentary-type-redcard">
+
+    <a style="text-decoration: none;" href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/author/">
+        <img class="avatar" style="float:left; width:40px; border-radius:50%; margin-right:20px " src="https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/profile-default.png"/>
+
+                    <div class="event-time">54"</div>
+        
+        <div class="comment-author-wrap">
+            <div class="comment-author" style="color:#c10303; font-size: 20px; text-transform: capitalize; font-weight: bold">Giannis Codeable</div>
+            <div class="comment-time">12:05 pm</div>
+        </div>
+    </a>
+
+    <a class="event-link" href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/match/ofi-vs-apollon-limassol/?team=home#commentary-580">
+
+                <!--<div class="event-league">Europa League</div>-->
+        
+        <div class="comment-scores"><span class="team-wrap home-team-wrap">
+                <span class="team-name" style="color:#000;">OFI</span>
+                <span class="team-score" style="color:#000;">0</span>
+            </span>
+            <span class="team-sep">:</span>
+            <span class="team-wrap away-team-wrap">
+                <span class="team-name" style="color:#999;" style="color:#999">Apollon Limassol</span>
+                <span class="team-score" style="color:#999;">0</span>
+            </span>
+        </div>
+
+        <div class="comment-heading">Red Card</div>
+        <div class="comment-content"><p>Comment</p></div>
+                    <div class="comment-images">
+                                       </div>
+    </a>
+    <!-- <div class="social_icon_section" style="padding: 20px 15px 0;">
+       <div class="heateor_sss_sharing_container heateor_sss_horizontal_sharing" ss-offset="0" heateor-sss-data-href='https://www.fanzalive.co.uk/'><ul class="heateor_sss_sharing_ul"><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Facebook" Title="Facebook" class="heateorSssSharing heateorSssFacebookBackground" onclick='heateorSssPopup("https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.fanzalive.co.uk")'><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssFacebookSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Twitter" Title="Twitter" class="heateorSssSharing heateorSssTwitterBackground" onclick='heateorSssPopup("http://twitter.com/intent/tweet?text=Live%20Reporting%20by%20the%20Fans&url=https%3A%2F%2Fwww.fanzalive.co.uk")'><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssTwitterSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Whatsapp" Title="Whatsapp" class="heateorSssSharing heateorSssWhatsappBackground"><a  href="https://web.whatsapp.com/send?text=Live%20Reporting%20by%20the%20Fans https%3A%2F%2Fwww.fanzalive.co.uk" rel="nofollow noopener" target="_blank"><ss style="display:block" class="heateorSssSharingSvg heateorSssWhatsappSvg"></ss></a></i></li></ul><div class="heateorSssClear"></div></div>    </div> -->
+    <div class="social_icon_section" style="padding: 20px 15px 0;">
+       <div class="heateor_sss_sharing_container heateor_sss_horizontal_sharing" ss-offset="0" heateor-sss-data-href="https://www.fanzalive.co.uk/tarun/"><ul class="heateor_sss_sharing_ul"><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Facebook" title="Facebook" class="heateorSssSharing heateorSssFacebookBackground" onclick="heateorSssPopup(&quot;https://web.archive.org/web/20201202122945/https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun&quot;)"><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssFacebookSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Twitter" title="Twitter" class="heateorSssSharing heateorSssTwitterBackground" onclick="heateorSssPopup(&quot;https://web.archive.org/web/20201202122945/http://twitter.com/intent/tweet?text=Home&amp;url=https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun&quot;)"><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssTwitterSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:28px;height:28px;border-radius:999px;" alt="Whatsapp" title="Whatsapp" class="heateorSssSharing heateorSssWhatsappBackground"><a href="https://web.archive.org/web/20201202122945/https://web.whatsapp.com/send?text=Home https%3A%2F%2Fwww.fanzalive.co.uk%2Ftarun" rel="nofollow noopener" target="_blank"><ss style="display:block" class="heateorSssSharingSvg heateorSssWhatsappSvg"></ss></a></i></li></ul><div class="heateorSssClear"></div></div>    
+    </div>
+</div></div></div>                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <footer id="footer">
+        <div class="inner">
+            <div id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-44137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44137"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/about-us/">About Us</a></li>
+<li id="menu-item-44133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-44133"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-103896" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103896"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/terms/">Terms</a></li>
+<li id="menu-item-13928" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13928"><a href="https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/contact-us/">Contact Us</a></li>
+</ul></div></div><div id="custom_html-5" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><center><img src="https://web.archive.org/web/20201202122945im_/https://www.fanzalive.co.uk/wp-content/uploads/begambleawareorg_white_png-e1594199467681.png" alt="begambleawareorg"></center></div></div>        </div>
+    </footer>
+
+</div><!--#wrapper-->
+<script type="text/javascript" src="https://web.archive.org/web/20201202122945js_/https://www.fanzalive.co.uk/wp-content/plugins/sportspress/assets/js/jquery.dataTables.min.js?ver=1.10.4" id="jquery-datatables-js"></script>
+<script type="text/javascript" id="sportspress-js-extra">
+/* <![CDATA[ */
+var localized_strings = {"days":"days","hrs":"hrs","mins":"mins","secs":"secs","previous":"Previous","next":"Next"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20201202122945js_/https://www.fanzalive.co.uk/wp-content/plugins/sportspress/assets/js/sportspress.js?ver=2.7.4" id="sportspress-js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20201202122945js_/https://www.fanzalive.co.uk/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20201202122945js_/https://www.fanzalive.co.uk/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4" id="jquery-ui-datepicker-js"></script>
+<script type="text/javascript" id="jquery-ui-datepicker-js-after">
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"dd\/mm\/yy","firstDay":1,"isRTL":false});});
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20201202122945js_/https://www.fanzalive.co.uk/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4" id="jquery-effects-core-js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20201202122945js_/https://www.fanzalive.co.uk/wp-content/themes/fanzalive/assets/owl-carousel/owl.carousel.min.js?ver=1.5" id="owl-carousel-js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20201202122945js_/https://www.fanzalive.co.uk/wp-content/themes/fanzalive/assets/js/jquery.blockui.js?ver=1.5" id="jquery-blockui-js"></script>
+<script type="text/javascript" id="fanzalive-frontend-js-extra">
+/* <![CDATA[ */
+var fanzalive = {"ajaxurl":"https:\/\/web.archive.org\/web\/20201202122945\/https:\/\/www.fanzalive.co.uk\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20201202122945js_/https://www.fanzalive.co.uk/wp-content/themes/fanzalive/assets/js/fanzalive-frontend.js?ver=1.5" id="fanzalive-frontend-js"></script>
+<script type="text/javascript" id="heateor_sss_sharing_js-js-before">
+function heateorSssLoadEvent(e) {var t=window.onload;if (typeof window.onload!="function") {window.onload=e}else{window.onload=function() {t();e()}}};	var heateorSssSharingAjaxUrl = 'https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/wp-admin/admin-ajax.php', heateorSssCloseIconPath = 'https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/wp-content/plugins/sassy-social-share/public/../images/close.png', heateorSssPluginIconPath = 'https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/wp-content/plugins/sassy-social-share/public/../images/logo.png', heateorSssHorizontalSharingCountEnable = 0, heateorSssVerticalSharingCountEnable = 0, heateorSssSharingOffset = -10; var heateorSssMobileStickySharingEnabled = 0;var heateorSssCopyLinkMessage = "Link copied.";var heateorSssUrlCountFetched = [], heateorSssSharesText = 'Shares', heateorSssShareText = 'Share';function heateorSssPopup(e) {window.open(e,"popUpWindow","height=400,width=600,left=400,top=100,resizable,scrollbars,toolbar=0,personalbar=0,menubar=no,location=no,directories=no,status")};var heateorSssWhatsappShareAPI = "web";
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20201202122945js_/https://www.fanzalive.co.uk/wp-content/plugins/sassy-social-share/public/js/sassy-social-share-public.js?ver=3.3.13" id="heateor_sss_sharing_js-js"></script>
+<script>
+/* <![CDATA[ */
+ai_front = {"insertion_before":"BEFORE","insertion_after":"AFTER","insertion_prepend":"PREPEND CONTENT","insertion_append":"APPEND CONTENT","insertion_replace_content":"REPLACE CONTENT","insertion_replace_element":"REPLACE ELEMENT","visible":"VISIBLE","hidden":"HIDDEN","fallback":"FALLBACK","automatically_placed":"Automatically placed by AdSense Auto ads code","cancel":"Cancel","use":"Use","add":"Add","parent":"Parent","cancel_element_selection":"Cancel element selection","select_parent_element":"Select parent element","css_selector":"CSS selector","use_current_selector":"Use current selector","element":"ELEMENT","path":"PATH","selector":"SELECTOR"};
+/* ]]> */
+function b2a(a){var b,c=0,l=0,f="",g=[];if(!a)return a;do{var e=a.charCodeAt(c++);var h=a.charCodeAt(c++);var k=a.charCodeAt(c++);var d=e<<16|h<<8|k;e=63&d>>18;h=63&d>>12;k=63&d>>6;d&=63;g[l++]="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(e)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(h)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(k)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(d)}while(c<
+a.length);return f=g.join(""),b=a.length%3,(b?f.slice(0,b-3):f)+"===".slice(b||3)}function a2b(a){var b,c,l,f={},g=0,e=0,h="",k=String.fromCharCode,d=a.length;for(b=0;64>b;b++)f["ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/".charAt(b)]=b;for(c=0;d>c;c++)for(b=f[a.charAt(c)],g=(g<<6)+b,e+=6;8<=e;)((l=255&g>>>(e-=8))||d-2>c)&&(h+=k(l));return h}b64e=function(a){return btoa(encodeURIComponent(a).replace(/%([0-9A-F]{2})/g,function(b,a){return String.fromCharCode("0x"+a)}))};
+b64d=function(a){return decodeURIComponent(atob(a).split("").map(function(a){return"%"+("00"+a.charCodeAt(0).toString(16)).slice(-2)}).join(""))};
+function ai_run_scripts(){var $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.arrayIteratorImpl=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}};$jscomp.arrayIterator=function(a){return{next:$jscomp.arrayIteratorImpl(a)}};$jscomp.makeIterator=function(a){var b="undefined"!=typeof Symbol&&Symbol.iterator&&a[Symbol.iterator];return b?b.call(a):$jscomp.arrayIterator(a)};
+(function(a){if("function"===typeof define&&define.amd){define(a);var b=!0}"object"===typeof exports&&(module.exports=a(),b=!0);if(!b){var f=window.Cookies,c=window.Cookies=a();c.noConflict=function(){window.Cookies=f;return c}}})(function(){function a(){for(var a=0,c={};a<arguments.length;a++){var b=arguments[a],e;for(e in b)c[e]=b[e]}return c}function b(f){function c(){}function d(b,e,d){if("undefined"!==typeof document){d=a({path:"/"},c.defaults,d);"number"===typeof d.expires&&(d.expires=new Date(1*
+new Date+864E5*d.expires));d.expires=d.expires?d.expires.toUTCString():"";try{var g=JSON.stringify(e);/^[\{\[]/.test(g)&&(e=g)}catch(n){}e=f.write?f.write(e,b):encodeURIComponent(String(e)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent);b=encodeURIComponent(String(b)).replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent).replace(/[\(\)]/g,escape);g="";for(var k in d)d[k]&&(g+="; "+k,!0!==d[k]&&(g+="="+d[k].split(";")[0]));return document.cookie=b+"="+e+g}}
+function e(a,b){if("undefined"!==typeof document){for(var c={},e=document.cookie?document.cookie.split("; "):[],d=0;d<e.length;d++){var g=e[d].split("="),h=g.slice(1).join("=");b||'"'!==h.charAt(0)||(h=h.slice(1,-1));try{var l=g[0].replace(/(%[0-9A-Z]{2})+/g,decodeURIComponent);h=(f.read||f)(h,l)||h.replace(/(%[0-9A-Z]{2})+/g,decodeURIComponent);if(b)try{h=JSON.parse(h)}catch(m){}c[l]=h;if(a===l)break}catch(m){}}return a?c[a]:c}}c.set=d;c.get=function(a){return e(a,!1)};c.getJSON=function(a){return e(a,
+!0)};c.remove=function(b,c){d(b,"",a(c,{expires:-1}))};c.defaults={};c.withConverter=b;return c}return b(function(){})});AiCookies=Cookies.noConflict();
+ai_check_block=function(a){if(null==a)return!0;var b=AiCookies.getJSON("aiBLOCKS");ai_debug_cookie_status="";null==b&&(b={});"undefined"!==typeof ai_delay_showing_pageviews&&(b.hasOwnProperty(a)||(b[a]={}),b[a].hasOwnProperty("d")||(b[a].d=ai_delay_showing_pageviews));if(b.hasOwnProperty(a))for(var f in b[a]){if("x"==f){var c="",d=document.querySelectorAll('span[data-ai-block="'+a+'"]')[0];"aiHash"in d.dataset&&(c=d.dataset.aiHash);d="";b[a].hasOwnProperty("h")&&(d=b[a].h);var e=new Date;e=b[a][f]-
+Math.round(e.getTime()/1E3);if(0<e&&d==c)return ai_debug_cookie_status=a="closed for "+e+" s = "+Math.round(1E4*e/3600/24)/1E4+" days",!1;ai_set_cookie(a,"x","");b[a].hasOwnProperty("i")||b[a].hasOwnProperty("c")||ai_set_cookie(a,"h","")}else if("d"==f){if(0!=b[a][f])return ai_debug_cookie_status=a="delayed for "+b[a][f]+" pageviews",!1}else if("i"==f){c="";d=document.querySelectorAll('span[data-ai-block="'+a+'"]')[0];"aiHash"in d.dataset&&(c=d.dataset.aiHash);d="";b[a].hasOwnProperty("h")&&(d=b[a].h);
+if(0==b[a][f]&&d==c)return ai_debug_cookie_status=a="max impressions reached",!1;if(0>b[a][f]&&d==c){e=new Date;e=-b[a][f]-Math.round(e.getTime()/1E3);if(0<e)return ai_debug_cookie_status=a="max imp. reached ("+Math.round(1E4*e/24/3600)/1E4+" days = "+e+" s)",!1;ai_set_cookie(a,"i","");b[a].hasOwnProperty("c")||b[a].hasOwnProperty("x")||ai_set_cookie(a,"h","")}}if("ipt"==f&&0==b[a][f]&&(e=new Date,c=Math.round(e.getTime()/1E3),e=b[a].it-c,0<e))return ai_debug_cookie_status=a="max imp. per time reached ("+
+Math.round(1E4*e/24/3600)/1E4+" days = "+e+" s)",!1;if("c"==f){c="";d=document.querySelectorAll('span[data-ai-block="'+a+'"]')[0];"aiHash"in d.dataset&&(c=d.dataset.aiHash);d="";b[a].hasOwnProperty("h")&&(d=b[a].h);if(0==b[a][f]&&d==c)return ai_debug_cookie_status=a="max clicks reached",!1;if(0>b[a][f]&&d==c){e=new Date;e=-b[a][f]-Math.round(e.getTime()/1E3);if(0<e)return ai_debug_cookie_status=a="max clicks reached ("+Math.round(1E4*e/24/3600)/1E4+" days = "+e+" s)",!1;ai_set_cookie(a,"c","");b[a].hasOwnProperty("i")||
+b[a].hasOwnProperty("x")||ai_set_cookie(a,"h","")}}if("cpt"==f&&0==b[a][f]&&(e=new Date,c=Math.round(e.getTime()/1E3),e=b[a].ct-c,0<e))return ai_debug_cookie_status=a="max clicks per time reached ("+Math.round(1E4*e/24/3600)/1E4+" days = "+e+" s)",!1}ai_debug_cookie_status="OK";return!0};
+ai_check_and_insert_block=function(a,b){if(null==a)return!0;var f=document.getElementsByClassName(b);if(f.length){f=f[0];var c=f.closest(".code-block");if(ai_check_block(a))ai_insert_code(f),c&&(c.classList.remove("ai-list-block"),c.style.visibility="",c.classList.contains("ai-remove-position")&&(c.style.position=""));else{var d=f.closest("div[data-ai]");if(null!=d&&"undefined"!=typeof d.getAttribute("data-ai")){var e=JSON.parse(b64d(d.getAttribute("data-ai")));"undefined"!==typeof e&&
+e.constructor===Array&&(e[1]="",d.setAttribute("data-ai",b64e(JSON.stringify(e))))}d=c.querySelectorAll(".ai-debug-block");c&&d.length&&(c.classList.remove("ai-list-block"),c.style.visibility="",c.classList.contains("ai-remove-position")&&(c.style.position=""))}f.classList.remove(b)}f=document.querySelectorAll("."+b+"-dbg");f=$jscomp.makeIterator(f);for(c=f.next();!c.done;c=f.next())c=c.value,c.querySelector(".ai-status").textContent=ai_debug_cookie_status,c.querySelector(".ai-cookie-data").textContent=
+ai_get_cookie_text(a),c.classList.remove(b+"-dbg")};function ai_load_cookie(){var a=AiCookies.getJSON("aiBLOCKS");null==a&&(a={});return a}function ai_get_cookie(a,b){var f="",c=ai_load_cookie();c.hasOwnProperty(a)&&c[a].hasOwnProperty(b)&&(f=c[a][b]);return f}
+function ai_set_cookie(a,b,f){var c=ai_load_cookie();if(""===f){if(c.hasOwnProperty(a)){delete c[a][b];a:{b=c[a];for(d in b)if(b.hasOwnProperty(d)){var d=!1;break a}d=!0}d&&delete c[a]}}else c.hasOwnProperty(a)||(c[a]={}),c[a][b]=f;0===Object.keys(c).length&&c.constructor===Object?AiCookies.remove("aiBLOCKS"):AiCookies.set("aiBLOCKS",c,{expires:365,path:"/"});return c}
+ai_get_cookie_text=function(a){var b=AiCookies.getJSON("aiBLOCKS");null==b&&(b={});return b.hasOwnProperty(a)?JSON.stringify(b[a]).replace(/"/g,"").replace("{","").replace("}",""):""};
+ai_insert=function(b,l,u){var r=-1!=l.indexOf(":eq")?jQuery(l):document.querySelectorAll(l);Array.prototype.forEach.call(r,function(g,w){selector_string=g.hasAttribute("id")?"#"+g.getAttribute("id"):g.hasAttribute("class")?"."+g.getAttribute("class").replace(RegExp(" ","g"),"."):"";var k=document.createElement("div");k.innerHTML=u;var m=k.getElementsByClassName("ai-selector-counter")[0];null!=m&&(m.innerText=w+1);m=k.getElementsByClassName("ai-debug-name ai-main")[0];if(null!=m){var t="";"before"==
+b?t=ai_front.insertion_before:"after"==b?t=ai_front.insertion_after:"prepend"==b?t=ai_front.insertion_prepend:"append"==b?t=ai_front.insertion_append:"replace-content"==b?t=ai_front.insertion_replace_content:"replace-element"==b&&(t=ai_front.insertion_replace_element);-1==selector_string.indexOf(".ai-viewports")&&(m.innerText=t+" "+l+" ("+g.tagName.toLowerCase()+selector_string+")")}m=document.createRange().createContextualFragment(k.innerHTML);"before"==b?g.parentNode.insertBefore(m,g):"after"==
+b?g.parentNode.insertBefore(m,g.nextSibling):"prepend"==b?g.insertBefore(m,g.firstChild):"append"==b?g.insertBefore(m,null):"replace-content"==b?g.innerHTML=k.innerHTML:"replace-element"==b&&(g.parentNode.insertBefore(m,g),g.parentNode.removeChild(g))})};
+ai_insert_code=function(b){function l(m,t){return null==m?!1:m.classList?m.classList.contains(t):-1<(" "+m.className+" ").indexOf(" "+t+" ")}function u(m,t){null!=m&&(m.classList?m.classList.add(t):m.className+=" "+t)}function r(m,t){null!=m&&(m.classList?m.classList.remove(t):m.className=m.className.replace(new RegExp("(^|\\b)"+t.split(" ").join("|")+"(\\b|$)","gi")," "))}if("undefined"!=typeof b){var g=!1;if(l(b,"no-visibility-check")||b.offsetWidth||b.offsetHeight||b.getClientRects().length){g=
+b.getAttribute("data-code");var w=b.getAttribute("data-insertion"),k=b.getAttribute("data-selector");if(null!=g)if(null!=w&&null!=k){if(-1!=k.indexOf(":eq")?jQuery(k).length:document.querySelectorAll(k).length)ai_insert(w,k,b64d(g)),r(b,"ai-viewports")}else g=document.createRange().createContextualFragment(b64d(g)),b.parentNode.insertBefore(g,b.nextSibling),r(b,"ai-viewports");g=!0;b=b.getElementsByClassName("ai-check-block");"undefined"!=typeof b[0]&&b[0].parentNode.removeChild(b[0])}else w=b.previousElementSibling,
+l(w,"ai-debug-bar")&&l(w,"ai-debug-script")&&(r(w,"ai-debug-script"),u(w,"ai-debug-viewport-invisible")),r(b,"ai-viewports");return g}};ai_insert_list_code=function(b){var l=document.getElementsByClassName(b)[0];if("undefined"!=typeof l){var u=ai_insert_code(l),r=l.closest("div.code-block");r&&(u||r.removeAttribute("data-ai"),r.classList.remove("ai-list-block"),r.style.visibility="",r.classList.contains("ai-remove-position")&&(r.style.position=""));l.classList.remove(b);u&&ai_process_elements()}};
+ai_insert_viewport_code=function(b){var l=document.getElementsByClassName(b)[0];"undefined"!=typeof l&&(ai_insert_code(l),l.classList.remove(b),ai_process_elements())};ai_insert_code_by_class=function(b){var l=document.getElementsByClassName(b)[0];"undefined"!=typeof l&&(ai_insert_code(l),l.classList.remove(b))};
+ai_insert_client_code=function(b,l){var u=document.getElementsByClassName(b)[0];if("undefined"!=typeof u){var r=u.getAttribute("data-code");null!=r&&ai_check_block()&&ai_check_and_insert_block()&&(u.setAttribute("data-code",r.substring(Math.floor(l/19))),ai_insert_code_by_class(b),u.remove())}};ai_process_elements_active=!1;
+function ai_process_elements(){ai_process_elements_active||setTimeout(function(){ai_process_elements_active=!1;"function"==typeof ai_process_rotations&&ai_process_rotations();"function"==typeof ai_process_lists&&ai_process_lists(jQuery("div.ai-list-data"));"function"==typeof ai_process_ip_addresses&&ai_process_ip_addresses(jQuery("div.ai-ip-data"));"function"==typeof ai_adb_process_blocks&&ai_adb_process_blocks()},5);ai_process_elements_active=!0}
+var Arrive=function(b,l,u){function r(q,c,d){k.addMethod(c,d,q.unbindEvent);k.addMethod(c,d,q.unbindEventWithSelectorOrCallback);k.addMethod(c,d,q.unbindEventWithSelectorAndCallback)}function g(q){q.arrive=x.bindEvent;r(x,q,"unbindArrive");q.leave=y.bindEvent;r(y,q,"unbindLeave")}if(b.MutationObserver&&"undefined"!==typeof HTMLElement){var w=0,k=function(){var q=HTMLElement.prototype.matches||HTMLElement.prototype.webkitMatchesSelector||HTMLElement.prototype.mozMatchesSelector||HTMLElement.prototype.msMatchesSelector;
+return{matchesSelector:function(c,d){return c instanceof HTMLElement&&q.call(c,d)},addMethod:function(c,d,e){var a=c[d];c[d]=function(){if(e.length==arguments.length)return e.apply(this,arguments);if("function"==typeof a)return a.apply(this,arguments)}},callCallbacks:function(c,d){d&&d.options.onceOnly&&1==d.firedElems.length&&(c=[c[0]]);for(var e=0,a;a=c[e];e++)a&&a.callback&&a.callback.call(a.elem,a.elem);d&&d.options.onceOnly&&1==d.firedElems.length&&d.me.unbindEventWithSelectorAndCallback.call(d.target,
+d.selector,d.callback)},checkChildNodesRecursively:function(c,d,e,a){for(var f=0,h;h=c[f];f++)e(h,d,a)&&a.push({callback:d.callback,elem:h}),0<h.childNodes.length&&k.checkChildNodesRecursively(h.childNodes,d,e,a)},mergeArrays:function(c,d){var e={},a;for(a in c)c.hasOwnProperty(a)&&(e[a]=c[a]);for(a in d)d.hasOwnProperty(a)&&(e[a]=d[a]);return e},toElementsArray:function(c){"undefined"===typeof c||"number"===typeof c.length&&c!==b||(c=[c]);return c}}}(),m=function(){var q=function(){this._eventsBucket=
+[];this._beforeRemoving=this._beforeAdding=null};q.prototype.addEvent=function(c,d,e,a){c={target:c,selector:d,options:e,callback:a,firedElems:[]};this._beforeAdding&&this._beforeAdding(c);this._eventsBucket.push(c);return c};q.prototype.removeEvent=function(c){for(var d=this._eventsBucket.length-1,e;e=this._eventsBucket[d];d--)c(e)&&(this._beforeRemoving&&this._beforeRemoving(e),(e=this._eventsBucket.splice(d,1))&&e.length&&(e[0].callback=null))};q.prototype.beforeAdding=function(c){this._beforeAdding=
+c};q.prototype.beforeRemoving=function(c){this._beforeRemoving=c};return q}(),t=function(q,c){var d=new m,e=this,a={fireOnAttributesModification:!1};d.beforeAdding(function(f){var h=f.target;if(h===b.document||h===b)h=document.getElementsByTagName("html")[0];var n=new MutationObserver(function(v){c.call(this,v,f)});var p=q(f.options);n.observe(h,p);f.observer=n;f.me=e});d.beforeRemoving(function(f){f.observer.disconnect()});this.bindEvent=function(f,h,n){h=k.mergeArrays(a,h);for(var p=k.toElementsArray(this),
+v=0;v<p.length;v++)d.addEvent(p[v],f,h,n)};this.unbindEvent=function(){var f=k.toElementsArray(this);d.removeEvent(function(h){for(var n=0;n<f.length;n++)if(this===u||h.target===f[n])return!0;return!1})};this.unbindEventWithSelectorOrCallback=function(f){var h=k.toElementsArray(this);d.removeEvent("function"===typeof f?function(n){for(var p=0;p<h.length;p++)if((this===u||n.target===h[p])&&n.callback===f)return!0;return!1}:function(n){for(var p=0;p<h.length;p++)if((this===u||n.target===h[p])&&n.selector===
+f)return!0;return!1})};this.unbindEventWithSelectorAndCallback=function(f,h){var n=k.toElementsArray(this);d.removeEvent(function(p){for(var v=0;v<n.length;v++)if((this===u||p.target===n[v])&&p.selector===f&&p.callback===h)return!0;return!1})};return this},x=new function(){function q(e,a,f){return k.matchesSelector(e,a.selector)&&(e._id===u&&(e._id=w++),-1==a.firedElems.indexOf(e._id))?(a.firedElems.push(e._id),!0):!1}var c={fireOnAttributesModification:!1,onceOnly:!1,existing:!1};x=new t(function(e){var a=
+{attributes:!1,childList:!0,subtree:!0};e.fireOnAttributesModification&&(a.attributes=!0);return a},function(e,a){e.forEach(function(f){var h=f.addedNodes,n=f.target,p=[];null!==h&&0<h.length?k.checkChildNodesRecursively(h,a,q,p):"attributes"===f.type&&q(n,a,p)&&p.push({callback:a.callback,elem:n});k.callCallbacks(p,a)})});var d=x.bindEvent;x.bindEvent=function(e,a,f){"undefined"===typeof f?(f=a,a=c):a=k.mergeArrays(c,a);var h=k.toElementsArray(this);if(a.existing){for(var n=[],p=0;p<h.length;p++)for(var v=
+h[p].querySelectorAll(e),z=0;z<v.length;z++)n.push({callback:f,elem:v[z]});if(a.onceOnly&&n.length)return f.call(n[0].elem,n[0].elem);setTimeout(k.callCallbacks,1,n)}d.call(this,e,a,f)};return x},y=new function(){function q(e,a){return k.matchesSelector(e,a.selector)}var c={};y=new t(function(){return{childList:!0,subtree:!0}},function(e,a){e.forEach(function(f){f=f.removedNodes;var h=[];null!==f&&0<f.length&&k.checkChildNodesRecursively(f,a,q,h);k.callCallbacks(h,a)})});var d=y.bindEvent;y.bindEvent=
+function(e,a,f){"undefined"===typeof f?(f=a,a=c):a=k.mergeArrays(c,a);d.call(this,e,a,f)};return y};l&&g(l.fn);g(HTMLElement.prototype);g(NodeList.prototype);g(HTMLCollection.prototype);g(HTMLDocument.prototype);g(Window.prototype);l={};r(x,l,"unbindAllArrive");r(y,l,"unbindAllLeave");return l}}(window,"undefined"===typeof jQuery?null:jQuery,void 0);
+var $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.createTemplateTagFirstArg=function(a){return a.raw=a};$jscomp.createTemplateTagFirstArgWithRaw=function(a,k){a.raw=k;return a};$jscomp.arrayIteratorImpl=function(a){var k=0;return function(){return k<a.length?{done:!1,value:a[k++]}:{done:!0}}};$jscomp.arrayIterator=function(a){return{next:$jscomp.arrayIteratorImpl(a)}};$jscomp.makeIterator=function(a){var k="undefined"!=typeof Symbol&&Symbol.iterator&&a[Symbol.iterator];return k?k.call(a):$jscomp.arrayIterator(a)};
+jQuery(function(a){function k(h){h=h.match(p);return null!=h&&1<h.length&&"string"===typeof h[1]&&0<h[1].length?h[1].toLowerCase():null}function y(h){try{var f=Date.parse(h);isNaN(f)&&(f=null)}catch(z){f=null}return f}Array.prototype.includes||(Array.prototype.includes=function(h){return!!~this.indexOf(h)});var p=/:\/\/(.[^/:]+)/i;ai_process_lists=function(h){function f(d,b,g){if(0==d.length){if("!@!"==g)return!0;b!=g&&("true"==g.toLowerCase()?g=!0:"false"==g.toLowerCase()&&(g=!1));return b==g}if("object"!=
+typeof b&&"array"!=typeof b)return!1;var e=d[0];d=d.slice(1);if("*"==e)for(b=$jscomp.makeIterator(Object.entries(b)),e=b.next();!e.done;e=b.next()){if(e=$jscomp.makeIterator(e.value),e.next(),e=e.next().value,f(d,e,g))return!0}else if(e in b)return f(d,b[e],g);return!1}function z(d,b,g){if("object"!=typeof d||-1==b.indexOf("["))return!1;b=b.replace(/]| /gi,"").split("[");return f(b,d,g)}function T(){"function"==typeof __tcfapi&&(a("#ai-iab-tcf-status").text("DETECTED"),__tcfapi("getTCData",2,function(d,
+b){b?(a("#ai-iab-tcf-bar").addClass("status-ok"),"tcloaded"==d.eventStatus||"useractioncomplete"==d.eventStatus?(ai_tcData=d,d.gdprApplies?a("#ai-iab-tcf-status").text("DATA LOADED"):jQuery("#ai-iab-tcf-status").text("GDPR DOES NOT APPLY"),a("#ai-iab-tcf-bar").addClass("status-ok").removeClass("status-error"),setTimeout(function(){ai_process_lists()},10)):"cmpuishown"==d.eventStatus&&(ai_cmpuishown=!0,a("#ai-iab-tcf-status").text("CMP UI SHOWN"),a("#ai-iab-tcf-bar").addClass("status-ok").removeClass("status-error"))):
+(a("#ai-iab-tcf-status").text("__tcfapi getTCData failed"),a("#ai-iab-tcf-bar").removeClass("status-ok").addClass("status-error"))}))}function K(d){"function"==typeof __tcfapi?"undefined"==typeof ai_tcData_requested&&(ai_tcData_requested=!0,T(),url_parameters_need_tcData=!0):d&&(a("#ai-iab-tcf-bar").addClass("status-error").removeClass("status-ok"),a("#ai-iab-tcf-status").text("MISSING: __tcfapi function not found"))}h=null==h?a("div.ai-list-data"):h.filter(".ai-list-data");if(h.length){h.removeClass("ai-list-data");
+var C=document.cookie.split(";");C.forEach(function(d,b){C[b]=d.trim()});var L=getAllUrlParams(window.location.search);if(null!=L.referrer)var q=L.referrer;else q=document.referrer,""!=q&&(q=k(q));var F=window.navigator.userAgent,G=F.toLowerCase();if("undefined"!==typeof MobileDetect)var M=new MobileDetect(F);h.each(function(){var d=a(this).closest("div.code-block"),b=!0,g=a(this).attr("referer-list");if("undefined"!=typeof g){g=b64d(g).split(",");var e=a(this).attr("referer-list-type"),
+m=!1;a.each(g,function(u,c){if(""==c)return!0;if("*"==c.charAt(0))if("*"==c.charAt(c.length-1)){if(c=c.substr(1,c.length-2),-1!=q.indexOf(c))return m=!0,!1}else{if(c=c.substr(1),q.substr(-c.length)==c)return m=!0,!1}else if("*"==c.charAt(c.length-1)){if(c=c.substr(0,c.length-1),0==q.indexOf(c))return m=!0,!1}else if("#"==c){if(""==q)return m=!0,!1}else if(c==q)return m=!0,!1});switch(e){case "B":m&&(b=!1);break;case "W":m||(b=!1)}}if(b&&(g=a(this).attr("client-list"),"undefined"!=typeof g&&"undefined"!==
+typeof M))switch(g=b64d(g).split(","),e=a(this).attr("client-list-type"),m=!1,a.each(g,function(u,c){if(""==c)return!0;if("*"==c.charAt(0))if("*"==c.charAt(c.length-1)){if(c=c.substr(1,c.length-2).toLowerCase(),-1!=G.indexOf(c))return m=!0,!1}else{if(c=c.substr(1).toLowerCase(),G.substr(-c.length)==c)return m=!0,!1}else if("*"==c.charAt(c.length-1)){if(c=c.substr(0,c.length-1).toLowerCase(),0==G.indexOf(c))return m=!0,!1}else if(M.is(c))return m=!0,!1}),e){case "B":m&&(b=!1);break;case "W":m||(b=
+!1)}var N=g=!1;if(b&&(e=a(this).attr("parameter-list"),"undefined"!=typeof e)){e=b64d(e).split(",");var r=a(this).attr("parameter-list-type"),O=[];C.forEach(function(u){u=u.split("=");try{var c=JSON.parse(decodeURIComponent(u[1]))}catch(P){c=decodeURIComponent(u[1])}O[u[0]]=c});var v=!1,D=a(this);a.each(e,function(u,c){var P=c.split("&&");a.each(P,function(V,n){var w=!0;n=n.trim();"!!"==n.substring(0,2)&&(w=!1,n=n.substring(2));var t=n,x="!@!",Q=-1!=n.indexOf("["),R=0==n.indexOf("euconsent-v2")&&
+-1!=n.indexOf("[");-1!=n.indexOf("=")&&(x=n.split("="),t=x[0],x=x[1],Q=-1!=t.indexOf("["),R=0==t.indexOf("euconsent-v2")&&-1!=t.indexOf("["));if(R)a("#ai-iab-tcf-bar").show(),"object"==typeof ai_tcData?(a("#ai-iab-tcf-bar").addClass("status-ok"),t=t.replace(/]| /gi,"").split("["),t.shift(),v=(t=f(t,ai_tcData,x))?w:!w):(D.addClass("ai-list-data"),N=!0,"function"==typeof __tcfapi?K(!1):"undefined"==typeof ai_tcData_retrying&&(ai_tcData_retrying=!0,setTimeout(function(){K(!0)},200)));else if(Q)v=(t=
+z(O,t,x))?w:!w;else{var H=!1;"!@!"==x?C.every(function(U){return U.split("=")[0]==n?(H=!0,!1):!0}):H=-1!=C.indexOf(n);v=H?w:!w}if(!v)return!1});if(v)return!1});switch(r){case "B":v&&(b=!1);break;case "W":v||(b=!1)}a(this).hasClass("ai-list-manual")&&(b?(D.removeClass("ai-list-data"),D.removeClass("ai-list-manual")):(g=!0,D.addClass("ai-list-data")));e=a(this).data("debug-info");if("undefined"!=typeof e&&(e=a("."+e),0!=e.length)){var l=e.parent();l.hasClass("ai-debug-info")&&l.remove()}}l=a(this).prevAll(".ai-debug-bar.ai-debug-lists");
+e=""==q?"#":q;l.find(".ai-debug-name.ai-list-info").text(e).attr("title",F);l.find(".ai-debug-name.ai-list-status").text(b?ai_front.visible:ai_front.hidden);e=!1;if(b){var E=a(this).attr("scheduling-start");l=a(this).attr("scheduling-end");var A=a(this).attr("scheduling-days");if("undefined"!=typeof E&&"undefined"!=typeof l&&"undefined"!=typeof A){e=!0;var I=parseInt(a(this).attr("scheduling-fallback"));r=parseInt(a(this).attr("gmt"));var B=y(b64d(E))+r;l=y(b64d(l))+r;E=b64d(A).split(",");A=a(this).attr("scheduling-type");
+var J=(new Date).getTime()+r,S=new Date(J);r=S.getDay();0==r?r=6:r--;B=J>=B&&J<l&&E.includes(r.toString());switch(A){case "B":B=!B}B||(b=!1);A=S.toISOString().split(".")[0].replace("T"," ");l=a(this).prevAll(".ai-debug-bar.ai-debug-scheduling");l.find(".ai-debug-name.ai-scheduling-info").text(A+" "+r);l.find(".ai-debug-name.ai-scheduling-status").text(b?ai_front.visible:ai_front.hidden);b||0==I||(l.removeClass("ai-debug-scheduling").addClass("ai-debug-fallback"),l.find(".ai-debug-name.ai-scheduling-status").text(ai_front.fallback+
+"="+I))}}if(g||N)return!0;a(this).css({visibility:"",position:"",width:"",height:"","z-index":""});b?(d.css({visibility:""}),d.hasClass("ai-remove-position")&&d.css({position:""}),"undefined"!=typeof a(this).data("code")&&(b=b64d(a(this).data("code")),a(this).append(b),ai_process_element(this))):e&&!B&&0!=I?(d.css({visibility:""}),d.hasClass("ai-remove-position")&&d.css({position:""}),a(this).next(".ai-fallback").removeClass("ai-fallback"),"undefined"!=typeof a(this).data("fallback-code")?(b=b64d(a(this).data("fallback-code")),
+a(this).append(b),ai_process_element(this)):a(this).hide(),b=d.attr("data-ai"),"undefined"!==typeof b&&!1!==b&&(b=a(this).attr("fallback-tracking"),"undefined"!==typeof b&&!1!==b&&d.attr("data-ai",b))):(a(this).hide(),d.removeAttr("data-ai").removeClass("ai-track"),d.find(".ai-debug-block").length?(d.css({visibility:""}).removeClass("ai-close"),d.hasClass("ai-remove-position")&&d.css({position:""})):d.hide());a(this).attr("data-code","");a(this).attr("data-fallback-code","");d.removeClass("ai-list-block")})}};
+a(document).ready(function(h){setTimeout(function(){ai_process_lists();(jQuery("#ai-iab-tcf-bar").length||jQuery(".ai-list-manual").length)&&"function"==typeof __tcfapi&&__tcfapi("addEventListener",2,function(f,z){z&&"useractioncomplete"===f.eventStatus&&(ai_tcData=f,ai_load_blocks(),jQuery("#ai-iab-tcf-status").text("DATA LOADED"),jQuery("#ai-iab-tcf-bar").addClass("status-ok").removeClass("status-error"))});if("function"==typeof ai_load_blocks)jQuery(document).on("cmplzEnableScripts",function(f){"all"===
+f.consentLevel&&ai_load_blocks()});jQuery("#ai-iab-tcf-bar").click(function(){AiCookies.remove("euconsent-v2",{path:"/",domain:"."+window.location.hostname});jQuery("#ai-iab-tcf-status").text("COOKIE DELETED")})},5)})});
+function ai_process_element(a){setTimeout(function(){"function"==typeof ai_process_rotations_in_element&&ai_process_rotations_in_element(a);"function"==typeof ai_process_lists&&ai_process_lists(jQuery("div.ai-list-data",a));"function"==typeof ai_process_ip_addresses&&ai_process_ip_addresses(jQuery("div.ai-ip-data",a));"function"==typeof ai_adb_process_blocks&&ai_adb_process_blocks(a)},5)}
+function getAllUrlParams(a){var k=a?a.split("?")[1]:window.location.search.slice(1);a={};if(k){k=k.split("#")[0];k=k.split("&");for(var y=0;y<k.length;y++){var p=k[y].split("="),h=void 0,f=p[0].replace(/\[\d*\]/,function(z){h=z.slice(1,-1);return""});p="undefined"===typeof p[1]?"":p[1];f=f.toLowerCase();p=p.toLowerCase();a[f]?("string"===typeof a[f]&&(a[f]=[a[f]]),"undefined"===typeof h?a[f].push(p):a[f][h]=p):a[f]=p}}return a};
+jQuery(function(b){function m(b,c){c||(c=window.location.href);b=b.replace(/[\[\]]/g,"\\$&");var a=(new RegExp("[?&]"+b+"(=([^&#]*)|&|#|$)")).exec(c);return a?a[2]?decodeURIComponent(a[2].replace(/\+/g," ")):"":null}function n(d){d.removeClass("ai-ip-data");var c=!1;if(""!=ai_ip_data){try{var a=JSON.parse(ai_ip_data),h=a[0],p=a[1],g=a[2],k=a[3]}catch(q){return}var l=h+", "+p;null!=g&&null!=k&&(l=l+":"+g+":"+k);null==g&&(g="");null==k&&(k="");null!=a&&d.each(function(){var a=b(this).closest("div.code-block");
+c=!0;var e=b(this).attr("ip-addresses");if("undefined"!=typeof e){e=e.split(",");var d=b(this).attr("ip-address-list"),f=!1;b.each(e,function(b,a){if("*"==a.charAt(0))if("*"==a.charAt(a.length-1)){if(a=a.substr(1,a.length-2),-1!=h.indexOf(a))return f=!0,!1}else{if(a=a.substr(1),h.substr(-a.length)==a)return f=!0,!1}else if("*"==a.charAt(a.length-1)){if(a=a.substr(0,a.length-1),0==h.indexOf(a))return f=!0,!1}else if("#"==a){if(""==h)return f=!0,!1}else if(a==h)return f=!0,!1});switch(d){case "B":f&&
+(c=!1);break;case "W":f||(c=!1)}}if(c&&(e=b(this).attr("countries"),"undefined"!=typeof e))switch(e=e.split(","),d=b(this).attr("country-list"),f=!1,b.each(e,function(a,b){var c=b.trim().split(":");if(null==c[1]||""==g)c[1]="";if(null==c[2]||""==k)c[2]="";var d=c.join(":").toUpperCase();c=(p+":"+(""==c[1]?"":g)+":"+(""==c[2]?"":k)).toUpperCase();if(d==c)return f=!0,!1}),d){case "B":f&&(c=!1);break;case "W":f||(c=!1)}b(this).css({visibility:"",position:"",width:"",height:"","z-index":""});e=b(this).prev(".ai-debug-bar");
+e.find(".ai-debug-name.ai-ip-country").text(l);e.find(".ai-debug-name.ai-ip-status").text(c?ai_front.visible:ai_front.hidden);c?(a.css({visibility:""}),a.hasClass("ai-remove-position")&&a.css({position:""}),"undefined"!=typeof b(this).data("code")&&(e=b64d(b(this).data("code")),b(this).append(e),b(this).attr("data-code",""),ai_process_element(this))):(b(this).hide(),a.removeAttr("data-ai"),a.find(".ai-debug-block")?(a.css({visibility:""}).removeClass("ai-close"),a.hasClass("ai-remove-position")&&
+a.css({position:""})):a.hide());a.removeClass("ai-list-block")})}}ai_process_ip_addresses=function(d){d=null==d?b("div.ai-ip-data"):d.filter(".ai-ip-data");if(d.length)if(d.removeClass("ai-ip-data"),"undefined"!=typeof ai_ip_data)n(d);else{var c="/wp-admin/admin-ajax.php?action=ai_ajax&ip-data=ip-address-country-city&ai_check=d73cffd37d&ver="+((new Date).getTime()+"-"+Math.round(1E5*Math.random())),a=m("ai-debug-ip-address");null!=a&&(c+="&ai-debug-ip-address="+a);a=m("ai-debug-country");
+null!=a&&(c+="&ai-debug-country="+a);b.get(c,function(a){ai_ip_data=a;if(""==a){var b="Ajax request returned empty data, geo-targeting disabled";console.error(b);"undefined"!=typeof ai_js_errors&&ai_js_errors.push([b,c,0])}else try{JSON.parse(a)}catch(g){b="Ajax call returned invalid data, geo-targeting disabled",console.error(b,a),"undefined"!=typeof ai_js_errors&&ai_js_errors.push([b,c,0])}n(d)}).fail(function(a,c,d){b("div.ai-ip-data").each(function(){b(this).css({display:"none",visibility:"",
+position:"",width:"",height:"","z-index":""}).removeClass("ai-ip-data").hide()})})}};b(document).ready(function(b){setTimeout(function(){ai_process_ip_addresses()},5)})});
+function ai_process_element(b){setTimeout(function(){"function"==typeof ai_process_rotations_in_element&&ai_process_rotations_in_element(b);"function"==typeof ai_process_lists&&ai_process_lists(jQuery("div.ai-list-data",b));"function"==typeof ai_process_ip_addresses&&ai_process_ip_addresses(jQuery("div.ai-ip-data",b));"function"==typeof ai_adb_process_blocks&&ai_adb_process_blocks(b)},5)};
+
+ai_js_code = true;
+}
+function ai_wait_for_jquery(){function b(b,c){var a=document.createElement("script");a.src=b;var d=document.getElementsByTagName("head")[0],e=!1;a.onload=a.onreadystatechange=function(){e||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState||(e=!0,c&&c(),a.onload=a.onreadystatechange=null,d.removeChild(a))};d.appendChild(a)}window.jQuery?ai_run_scripts():(ai_jquery_waiting_counter++,4==ai_jquery_waiting_counter&&b("https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",function(){b("https://web.archive.org/web/20201202122945/https://www.fanzalive.co.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=5.5.3",null)}),30>ai_jquery_waiting_counter&&
+setTimeout(function(){ai_wait_for_jquery()},50))}ai_jquery_waiting_counter=0;ai_wait_for_jquery();
+
+</script>
+	<script type="text/javascript">
+        jQuery(document).ready(function ($) {
+            //$( document ).ajaxStart(function() {
+            //});
+
+			
+            for (var i = 0; i < document.forms.length; ++i) {
+                var form = document.forms[i];
+				if ($(form).attr("method") != "get") { $(form).append('<input type="hidden" name="zJ_YjdvnNtuoc" value="tPXgrI06aVlAk" />'); }
+if ($(form).attr("method") != "get") { $(form).append('<input type="hidden" name="jMIgXUW" value="*gTOaYd" />'); }
+            }
+
+			
+            $(document).on('submit', 'form', function () {
+				if ($(this).attr("method") != "get") { $(this).append('<input type="hidden" name="zJ_YjdvnNtuoc" value="tPXgrI06aVlAk" />'); }
+if ($(this).attr("method") != "get") { $(this).append('<input type="hidden" name="jMIgXUW" value="*gTOaYd" />'); }
+                return true;
+            });
+
+			
+            jQuery.ajaxSetup({
+                beforeSend: function (e, data) {
+
+                    //console.log(Object.getOwnPropertyNames(data).sort());
+                    //console.log(data.type);
+
+                    if (data.type !== 'POST') return;
+
+                    if (typeof data.data === 'object' && data.data !== null) {
+						data.data.append("zJ_YjdvnNtuoc", "tPXgrI06aVlAk");
+data.data.append("jMIgXUW", "*gTOaYd");
+                    }
+                    else {
+                        data.data =  data.data + '&zJ_YjdvnNtuoc=tPXgrI06aVlAk&jMIgXUW=*gTOaYd';
+                    }
+                }
+            });
+
+        });
+	</script>
+	</body>
+</html>
+<!--
+     FILE ARCHIVED ON 12:29:45 Dec 02, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:11:39 Mar 15, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.484
+  exclusion.robots: 0.031
+  exclusion.robots.policy: 0.022
+  esindex: 0.009
+  cdx.remote: 849.386
+  LoadShardBlock: 2613.328 (3)
+  PetaboxLoader3.datanode: 1916.7 (4)
+  PetaboxLoader3.resolve: 1702.145 (2)
+  load_resource: 1860.334
+-->
