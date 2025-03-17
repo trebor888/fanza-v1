@@ -1,0 +1,130 @@
+/**
+ * Fanzalive Navigation Styles
+ * 
+ * This file contains all navigation styling with proper media queries
+ * to separate desktop and mobile behaviors
+ */
+
+/* ==== DESKTOP STYLES (Base Styles) ==== */
+#main-menu {
+    background-color: #001a39;
+    border-bottom: 3px solid #c10303;
+}
+
+#main-menu .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+/* Menu structure */
+#main-menu ul.menu {
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    justify-content: center;
+}
+
+#main-menu ul.menu li {
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+#main-menu ul.menu li a {
+    display: block;
+    padding: 15px 20px;
+    color: #fff;
+    font-weight: 500;
+    font-size: 16px;
+    text-decoration: none;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+/* Subtle underline effect for desktop */
+#main-menu ul.menu li a::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: 8px;
+    left: 50%;
+    background-color: #c10303;
+    transition: all 0.3s ease;
+    transform: translateX(-50%);
+}
+
+#main-menu ul.menu li a:hover::after,
+#main-menu ul.menu li.current-menu-item a::after {
+    width: 70%;
+}
+
+/* Hide mobile elements in desktop */
+.mobile-menu-toggle {
+    display: none;
+}
+
+/* ==== MOBILE STYLES (768px and below) ==== */
+@media only screen and (max-width: 768px) {
+    /* Show toggle button */
+    .mobile-menu-toggle {
+        display: block;
+        background: #c10303;
+        color: #fff;
+        border: none;
+        padding: 10px 15px;
+        margin: 10px auto;
+        width: 100%;
+        text-align: center;
+        font-size: 16px;
+        font-weight: bold;
+        cursor: pointer;
+    }
+    
+    /* Reset menu layout */
+    #main-menu ul.menu {
+        display: none; /* Hidden by default */
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    
+    /* When menu is toggled open */
+    #main-menu.open ul.menu {
+        display: flex;
+    }
+    
+    /* Mobile menu item layout */
+    #main-menu ul.menu li {
+        width: 48%; /* Two columns */
+        margin: 1%;
+        text-align: center;
+    }
+    
+    #main-menu ul.menu li a {
+        padding: 12px 5px;
+        text-align: center;
+        border-bottom: 1px solid rgba(255,255,255,0.1);
+    }
+    
+    /* Adjust mobile underline effect */
+    #main-menu ul.menu li a::after {
+        bottom: 5px;
+    }
+    
+    #main-menu ul.menu li a:hover::after,
+    #main-menu ul.menu li.current-menu-item a::after {
+        width: 50%;
+    }
+}
+
+/* Very small screens (480px and below) */
+@media only screen and (max-width: 480px) {
+    #main-menu ul.menu li {
+        width: 100%; /* Full width on very small screens */
+        margin: 2px 0;
+    }
+}

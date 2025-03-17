@@ -1,0 +1,395 @@
+/* Match Details Styling */
+.clubbanner {
+    background-color: var(--primary-color);
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.clubbanner h1 {
+    color: #fff;
+    margin-bottom: 0;
+}
+
+/* Tabs Styling */
+.tab-all {
+    margin-bottom: 30px;
+}
+
+.tabs-menu {
+    display: flex;
+    list-style: none;
+    margin: 0 0 20px;
+    padding: 0;
+    border-bottom: 1px solid #ddd;
+}
+
+.tabs-menu li {
+    margin: 0;
+    padding: 0;
+}
+
+.tabs-menu li a {
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-bottom: 3px solid transparent;
+    color: var(--text-color);
+}
+
+.tabs-menu li.active a,
+.tabs-menu li a:hover {
+    border-bottom-color: var(--accent-color);
+}
+
+.tab-content {
+    display: none;
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-top: none;
+}
+
+.tab-content.active {
+    display: block;
+}
+
+/* Calendar Slider Styles */
+.calendar {
+    position: relative;
+    margin-bottom: 20px;
+    overflow: hidden; /* Prevent items from flowing outside */
+}
+
+/* Force owl-carousel to display horizontally */
+.calendar .owl-carousel {
+    display: flex !important;
+    flex-direction: row !important;
+}
+
+.calendar .owl-stage {
+    display: flex !important;
+    flex-direction: row !important;
+}
+
+.calendar-date {
+    text-align: center;
+    cursor: pointer;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 0 5px;
+    min-width: 70px;
+    transition: all 0.3s ease;
+}
+
+.calendar-date:hover {
+    background-color: #f0f0f0;
+}
+
+.calendar-date.date-active {
+    background-color: var(--primary-color);
+    color: #fff;
+    border-color: var(--primary-color);
+}
+
+.calendar-date .name {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.calendar-date .desc {
+    font-size: 12px;
+}
+
+/* Navigation arrows */
+.calendar .owl-nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    pointer-events: none;
+}
+
+.calendar .owl-nav button {
+    pointer-events: all;
+    background-color: rgba(255, 255, 255, 0.8) !important;
+    width: 30px;
+    height: 30px;
+    border-radius: 50% !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.calendar .owl-nav button span {
+    font-size: 18px;
+    line-height: 1;
+}
+
+/* Match Reporting */
+.commentary-form {
+    margin-top: 20px;
+    padding: 20px;
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+}
+
+.commentary-form .form-field {
+    margin-bottom: 15px;
+}
+
+.commentary-form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.commentary-form input[type="text"],
+.commentary-form input[type="number"],
+.commentary-form textarea,
+.commentary-form select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.commentary-form button {
+    background-color: var(--accent-color);
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.commentary-form button:hover {
+    background-color: var(--primary-color);
+}
+
+/* Event Commentaries */
+.event-commentaries {
+    margin-bottom: 20px;
+}
+
+.event-commentary {
+    margin-bottom: 15px;
+    padding: 15px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.event-commentary .avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 15px;
+    float: left;
+}
+
+.comment-author-wrap {
+    margin-bottom: 10px;
+}
+
+.comment-author {
+    font-weight: bold;
+    color: var(--accent-color);
+}
+
+.comment-time {
+    font-size: 0.9em;
+    color: #666;
+}
+
+.comment-heading {
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.comment-scores {
+    margin: 10px 0;
+    font-size: 1.1em;
+}
+
+.team-name {
+    font-weight: bold;
+}
+
+.team-score {
+    margin-left: 5px;
+}
+
+.team-sep {
+    margin: 0 10px;
+}
+
+.comment-images img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+.event-time {
+    float: right;
+    font-weight: bold;
+    color: var(--primary-color);
+    background: #f0f0f0;
+    padding: 3px 8px;
+    border-radius: 3px;
+}
+
+/* Match Stats & Lineups */
+.match-statistics {
+    padding: 20px;
+}
+
+.match-players {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.match-players .team {
+    flex: 0 0 48%;
+    margin-bottom: 20px;
+}
+
+.match-players .label {
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    padding: 5px 10px;
+    background: var(--primary-color);
+    color: #fff;
+}
+
+.match-players .players {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 20px;
+}
+
+.match-players .player {
+    padding: 8px 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.match-players .player:nth-child(odd) {
+    background: #f9f9f9;
+}
+
+.match-players .joursey {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    background: var(--primary-color);
+    color: #fff;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+/* Registration Form */
+.fanzalive-form {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.form-field {
+    margin-bottom: 20px;
+}
+
+.field-label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.field-description {
+    font-size: 0.9em;
+    color: #666;
+    margin-top: 5px;
+}
+
+.form-notice {
+    padding: 10px 15px;
+    margin-bottom: 20px;
+    border-radius: 3px;
+}
+
+.form-notice.error {
+    background-color: #ffdede;
+    border: 1px solid #ff7676;
+    color: #c53030;
+}
+
+.form-notice.success {
+    background-color: #dcf5e8;
+    border: 1px solid #5cb85c;
+    color: #2a6f2a;
+}
+
+.field-input-wrap input[type="text"],
+.field-input-wrap input[type="password"],
+.field-input-wrap input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.field-teams .field-input-wrap {
+    max-height: 200px;
+    overflow-y: auto;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+.field-teams .field-input-wrap label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.tabs-dropdown {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+}
+
+.field-submit input[type="submit"] {
+    background-color: var(--accent-color);
+    color: #fff;
+    border: none;
+    padding: 12px 25px;
+    font-size: 1.1em;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.field-submit input[type="submit"]:hover {
+    background-color: var(--primary-color);
+}
+
+/* Responsive adjustments */
+@media only screen and (max-width: 768px) {
+    .tabs-menu {
+        display: block;
+        border-bottom: none;
+    }
+    
+    .tabs-menu li a {
+        border: 1px solid #ddd;
+        margin-bottom: 5px;
+    }
+    
+    .match-players {
+        display: block;
+    }
+    
+    .match-players .team {
+        margin-bottom: 30px;
+    }
+}
